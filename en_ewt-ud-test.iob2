@@ -27,7 +27,7 @@
 5	slogan	O	-	-
 6	for	O	-	-
 7	an	O	-	-
-8	Argentinian	B-OTH	-	stephen
+8	Argentinian	O	-	-
 9	restaurant	O	-	-
 10	?	O	-	-
 
@@ -194,7 +194,7 @@
 4	there	O	-	-
 5	are	O	-	-
 6	any	O	-	-
-7	koreans	B-OTH	-	stephen
+7	koreans	O	-	-
 8	in	O	-	-
 9	Miramar	B-LOC	-	stephen
 10	?	O	-	-
@@ -220,7 +220,7 @@
 5	do	O	-	-
 6	believe	O	-	-
 7	some	O	-	-
-8	Koreans	B-OTH	-	stephen
+8	Koreans	O	-	-
 9	reside	O	-	-
 10	in	O	-	-
 11	the	O	-	-
@@ -656,7 +656,7 @@
 9	question	O	-	-
 10	about	O	-	-
 11	an	O	-	-
-12	American	B-OTH	-	stephen
+12	American	O	-	-
 13	movie	O	-	-
 14	,	O	-	-
 15	set	O	-	-
@@ -980,7 +980,7 @@
 15	day	O	-	-
 16	websites	O	-	-
 17	like	O	-	-
-18	Groupon	B-OTH	-	stephen
+18	Groupon	O	-	-
 19	.	O	-	-
 
 # sent_id = answers-20111103205154AAOod9K_ans-0004
@@ -1024,7 +1024,7 @@
 1	I	O	-	-
 2	usually	O	-	-
 3	use	O	-	-
-4	ZebraKlub	B-OTH	-	stephen
+4	ZebraKlub	O	-	-
 5	.	O	-	-
 
 # sent_id = answers-20111103205154AAOod9K_ans-0007
@@ -1035,10 +1035,10 @@
 4	daily	O	-	-
 5	deals	O	-	-
 6	from	O	-	-
-7	Groupon	B-OTH	-	stephen
+7	Groupon	O	-	-
 8	,	O	-	-
-9	Living	B-OTH	-	stephen
-10	Social	I-OTH	-	stephen
+9	Living	O	-	-
+10	Social	O	-	-
 11	,	O	-	-
 12	and	O	-	-
 13	all	O	-	-
@@ -1105,7 +1105,7 @@
 15	every	O	-	-
 16	day	O	-	-
 17	,	O	-	-
-18	ZebraKlub	B-OTH	-	stephen
+18	ZebraKlub	O	-	-
 19	should	O	-	-
 20	be	O	-	-
 21	perfect	O	-	-
@@ -2618,8 +2618,8 @@
 # text = The new NCL Epic does sound amazing, although I have n't sailed on her yet.
 1	The	O	-	-
 2	new	O	-	-
-3	NCL	B-OTH	-	stephen
-4	Epic	I-OTH	-	stephen
+3	NCL	O	-	-
+4	Epic	O	-	-
 5	does	O	-	-
 6	sound	O	-	-
 7	amazing	O	-	-
@@ -2683,7 +2683,7 @@
 1	need	O	-	-
 2	help	O	-	-
 3	finding	O	-	-
-4	irish	B-OTH	-	stephen
+4	irish	O	-	-
 5	music	O	-	-
 6	?	O	-	-
 
@@ -2725,7 +2725,7 @@
 9	not	O	-	-
 10	sound	O	-	-
 11	that	O	-	-
-12	Irish	B-OTH	-	stephen
+12	Irish	O	-	-
 13	,	O	-	-
 14	I	O	-	-
 15	was	O	-	-
@@ -2805,7 +2805,7 @@
 3	's	O	-	-
 4	nothing	O	-	-
 5	distinctly	O	-	-
-6	Irish	B-OTH	-	stephen
+6	Irish	O	-	-
 7	about	O	-	-
 8	them	O	-	-
 9	.	O	-	-
@@ -2962,7 +2962,7 @@
 # text = When the French returned to Indochina at the end of WW II the Viet Minh were in control of the Red River Delta.
 1	When	O	-	-
 2	the	O	-	-
-3	French	B-OTH	-	stephen
+3	French	O	-	-
 4	returned	O	-	-
 5	to	O	-	-
 6	Indochina	B-LOC	-	stephen
@@ -3022,7 +3022,7 @@
 4	check	O	-	-
 5	out	O	-	-
 6	the	O	-	-
-7	French	B-OTH	-	stephen
+7	French	O	-	-
 8	Indochina	B-LOC	-	stephen
 9	War	O	-	-
 10	(	O	-	-
@@ -3353,7 +3353,7 @@
 # sent_id = answers-20111107211645AA391wC_ans-0005
 # text = An Irish pint is larger than a US one.
 1	An	O	-	-
-2	Irish	B-OTH	-	stephen
+2	Irish	O	-	-
 3	pint	O	-	-
 4	is	O	-	-
 5	larger	O	-	-
@@ -3388,7 +3388,7 @@
 10	16	O	-	-
 11	in	O	-	-
 12	an	O	-	-
-13	American	B-OTH	-	stephen
+13	American	O	-	-
 14	one	O	-	-
 15	.	O	-	-
 
@@ -3402,7 +3402,7 @@
 6	remember	O	-	-
 7	an	O	-	-
 8	'	O	-	-
-9	irish	B-OTH	-	stephen
+9	irish	O	-	-
 10	'	O	-	-
 11	pub	O	-	-
 12	in	O	-	-
@@ -3430,7 +3430,7 @@
 34	served	O	-	-
 35	them	O	-	-
 36	in	O	-	-
-37	american	B-OTH	-	stephen
+37	american	O	-	-
 38	sized	O	-	-
 39	pints	O	-	-
 40	.	O	-	-
@@ -3592,18 +3592,18 @@
 
 # sent_id = answers-20111107221352AAlIioO_ans-0004
 # text = American Food, Soul Food, Mexican, Italian, and Chinese are the options.
-1	American	B-OTH	-	stephen
+1	American	O	-	-
 2	Food	O	-	-
 3	,	O	-	-
 4	Soul	O	-	-
 5	Food	O	-	-
 6	,	O	-	-
-7	Mexican	B-OTH	-	stephen
+7	Mexican	O	-	-
 8	,	O	-	-
-9	Italian	B-OTH	-	stephen
+9	Italian	O	-	-
 10	,	O	-	-
 11	and	O	-	-
-12	Chinese	B-OTH	-	stephen
+12	Chinese	O	-	-
 13	are	O	-	-
 14	the	O	-	-
 15	options	O	-	-
@@ -3643,7 +3643,7 @@
 12	Hakka	B-ORG	-	stephen
 13	Restaurant	I-ORG	-	stephen
 14	for	O	-	-
-15	chinese	B-OTH	-	stephen
+15	chinese	O	-	-
 16	food	O	-	-
 
 # sent_id = answers-20111107221352AAlIioO_ans-0008
@@ -4039,7 +4039,7 @@
 10	love	O	-	-
 11	the	O	-	-
 12	free	O	-	-
-13	French	B-OTH	-	stephen
+13	French	O	-	-
 14	champagne	O	-	-
 15	served	O	-	-
 16	even	O	-	-
@@ -5215,8 +5215,8 @@
 1	I	O	-	-
 2	have	O	-	-
 3	the	O	-	-
-4	HTC	B-OTH	-	stephen
-5	Evo	I-OTH	-	stephen
+4	HTC	O	-	-
+5	Evo	O	-	-
 6	.	O	-	-
 
 # sent_id = answers-20111108084036AAh8Ws9_ans-0004
@@ -5294,7 +5294,7 @@
 4	a	O	-	-
 5	game	O	-	-
 6	at	O	-	-
-7	gamestop	B-OTH	-	stephen
+7	gamestop	O	-	-
 8	can	O	-	-
 9	someone	O	-	-
 10	else	O	-	-
@@ -5863,9 +5863,9 @@
 3	the	O	-	-
 4	difference	O	-	-
 5	between	O	-	-
-6	Indian	B-OTH	-	stephen
+6	Indian	O	-	-
 7	and	O	-	-
-8	African	B-OTH	-	stephen
+8	African	O	-	-
 9	ringnecks	O	-	-
 10	and	O	-	-
 11	alexandrine	O	-	-
@@ -5881,7 +5881,7 @@
 4	to	O	-	-
 5	buy	O	-	-
 6	an	O	-	-
-7	indian	B-OTH	-	stephen
+7	indian	O	-	-
 8	ringneck	O	-	-
 9	,	O	-	-
 10	did	O	-	-
@@ -14994,10 +14994,10 @@
 19	series	O	-	-
 20	called	O	-	-
 21	the	O	-	-
-22	The	B-OTH	-	stephen
-23	Tale	I-OTH	-	stephen
-24	of	I-OTH	-	stephen
-25	Terra	I-OTH	-	stephen
+22	The	O	-	-
+23	Tale	O	-	-
+24	of	O	-	-
+25	Terra	O	-	-
 26	.	O	-	-
 
 # sent_id = newsgroup-groups.google.com_GUHarryPotterReaders_75faa7d55aff9230_ENG_20050715_234000-0002
@@ -15396,7 +15396,7 @@
 1	Police	O	-	-
 2	in	O	-	-
 3	the	O	-	-
-4	Indian	B-OTH	-	stephen
+4	Indian	O	-	-
 5	capital	O	-	-
 6	Delhi	B-LOC	-	stephen
 7	say	O	-	-
@@ -15458,7 +15458,7 @@
 8	was	O	-	-
 9	arrested	O	-	-
 10	in	O	-	-
-11	Indian	B-OTH	-	stephen
+11	Indian	O	-	-
 12	-	O	-	-
 13	administered	O	-	-
 14	Kashmir	B-LOC	-	stephen
@@ -16888,7 +16888,7 @@
 5	-	O	-	-
 6	month	O	-	-
 7	old	O	-	-
-8	African	B-OTH	-	stephen
+8	African	O	-	-
 9	elephant	O	-	-
 10	named	O	-	-
 11	Olly	O	-	-
@@ -17256,8 +17256,8 @@
 5	financial	O	-	-
 6	impacts	O	-	-
 7	of	O	-	-
-8	Hurricane	B-OTH	-	stephen
-9	Katrina	I-OTH	-	stephen
+8	Hurricane	O	-	-
+9	Katrina	O	-	-
 10	are	O	-	-
 11	powerful	O	-	-
 12	evidence	O	-	-
@@ -17364,7 +17364,7 @@
 30	destructive	O	-	-
 31	power	O	-	-
 32	of	O	-	-
-33	Katrina	B-OTH	-	stephen
+33	Katrina	O	-	-
 34	.	O	-	-
 
 # sent_id = newsgroup-groups.google.com_civilization_1201f7692b7769fb_ENG_20050908_010400-0008
@@ -17430,7 +17430,7 @@
 4	combines	O	-	-
 5	painting	O	-	-
 6	and	O	-	-
-7	Chinese	B-OTH	-	stephen
+7	Chinese	O	-	-
 8	calligraphy	O	-	-
 9	.	O	-	-
 
@@ -18361,7 +18361,7 @@
 23	quite	O	-	-
 24	dangerous	O	-	-
 25	as	O	-	-
-26	Columbia	B-OTH	-	stephen
+26	Columbia	O	-	-
 27	has	O	-	-
 28	recently	O	-	-
 29	proved	O	-	-
@@ -18630,7 +18630,7 @@
 4	on	O	-	-
 5	in	O	-	-
 6	the	O	-	-
-7	Chilean	B-OTH	-	stephen
+7	Chilean	O	-	-
 8	capital	O	-	-
 9	of	O	-	-
 10	Santiago	B-LOC	-	stephen
@@ -18644,7 +18644,7 @@
 18	President	O	-	-
 19	Bush	B-PER	-	stephen
 20	visited	O	-	-
-21	Chinese	B-OTH	-	stephen
+21	Chinese	O	-	-
 22	President	O	-	-
 23	Hu	B-PER	-	stephen
 24	Jintao	I-PER	-	stephen
@@ -18725,7 +18725,7 @@
 6	shakes	O	-	-
 7	hands	O	-	-
 8	with	O	-	-
-9	Chinese	B-OTH	-	stephen
+9	Chinese	O	-	-
 10	President	O	-	-
 11	Hu	B-PER	-	stephen
 12	Jintao	I-PER	-	stephen
@@ -18774,7 +18774,7 @@
 12	help	O	-	-
 13	strengthen	O	-	-
 14	our	O	-	-
-15	Chinese	B-OTH	-	stephen
+15	Chinese	O	-	-
 16	allies	O	-	-
 17	,	O	-	-
 18	but	O	-	-
@@ -24321,7 +24321,7 @@
 # text = The finest German bedding and linens store.
 1	The	O	-	-
 2	finest	O	-	-
-3	German	B-OTH	-	stephen
+3	German	O	-	-
 4	bedding	O	-	-
 5	and	O	-	-
 6	linens	O	-	-
@@ -26502,9 +26502,9 @@
 6	ruling	O	-	-
 7	today	O	-	-
 8	in	O	-	-
-9	Hamdan	B-OTH	-	stephen
-10	v.	I-OTH	-	stephen
-11	Rumsfeld	I-OTH	-	stephen
+9	Hamdan	O	-	-
+10	v.	O	-	-
+11	Rumsfeld	O	-	-
 12	divided	O	-	-
 13	along	O	-	-
 14	idelogical	O	-	-
@@ -26826,7 +26826,7 @@
 # sent_id = weblog-blogspot.com_aggressivevoicedaily_20060811122000_ENG_20060811_122000-0003
 # text = U.S. Muslim groups criticized President Bush on Thursday for calling a foiled plot to blow up airplanes part of a "war with Islamic fascists," saying the term could inflame anti-Muslim tensions.
 1	U.S.	B-LOC	-	stephen
-2	Muslim	B-OTH	-	stephen
+2	Muslim	O	-	-
 3	groups	O	-	-
 4	criticized	O	-	-
 5	President	O	-	-
@@ -26848,7 +26848,7 @@
 21	"	O	-	-
 22	war	O	-	-
 23	with	O	-	-
-24	Islamic	B-OTH	-	stephen
+24	Islamic	O	-	-
 25	fascists	O	-	-
 26	,	O	-	-
 27	"	O	-	-
@@ -26857,7 +26857,7 @@
 30	term	O	-	-
 31	could	O	-	-
 32	inflame	O	-	-
-33	anti-Muslim	B-OTH	-	stephen
+33	anti-Muslim	O	-	-
 34	tensions	O	-	-
 35	.	O	-	-
 
@@ -26913,9 +26913,9 @@
 17	counterproductive	O	-	-
 18	to	O	-	-
 19	associate	O	-	-
-20	Islam	B-OTH	-	stephen
+20	Islam	O	-	-
 21	or	O	-	-
-22	Muslims	B-OTH	-	stephen
+22	Muslims	O	-	-
 23	with	O	-	-
 24	fascism	O	-	-
 25	,	O	-	-
@@ -26952,7 +26952,7 @@
 10	at	O	-	-
 11	war	O	-	-
 12	with	O	-	-
-13	Islamic	B-OTH	-	stephen
+13	Islamic	O	-	-
 14	people	O	-	-
 15	.	O	-	-
 
@@ -26963,7 +26963,7 @@
 3	at	O	-	-
 4	war	O	-	-
 5	with	O	-	-
-6	Islamic	B-OTH	-	stephen
+6	Islamic	O	-	-
 7	fascists	O	-	-
 8	.	O	-	-
 
@@ -26974,7 +26974,7 @@
 3	the	O	-	-
 4	word	O	-	-
 5	"	O	-	-
-6	Islamic	B-OTH	-	stephen
+6	Islamic	O	-	-
 7	"	O	-	-
 8	as	O	-	-
 9	an	O	-	-
@@ -26984,7 +26984,7 @@
 13	purposely	O	-	-
 14	not	O	-	-
 15	associating	O	-	-
-16	Muslims	B-OTH	-	stephen
+16	Muslims	O	-	-
 17	with	O	-	-
 18	fascism	O	-	-
 19	,	O	-	-
@@ -27414,7 +27414,7 @@
 3	if	O	-	-
 4	it	O	-	-
 5	's	O	-	-
-6	Islamic	B-OTH	-	stephen
+6	Islamic	O	-	-
 7	,	O	-	-
 8	and	O	-	-
 9	fascist	O	-	-
@@ -27422,7 +27422,7 @@
 11	it	O	-	-
 12	's	O	-	-
 13	an	O	-	-
-14	Islamic	B-OTH	-	stephen
+14	Islamic	O	-	-
 15	fascist	O	-	-
 16	.	O	-	-
 
@@ -27671,7 +27671,7 @@
 2	the	O	-	-
 3	same	O	-	-
 4	day	O	-	-
-5	Palestinians	B-OTH	-	stephen
+5	Palestinians	O	-	-
 6	protest	O	-	-
 7	in	O	-	-
 8	support	O	-	-
@@ -27714,7 +27714,7 @@
 13	about	O	-	-
 14	entering	O	-	-
 15	the	O	-	-
-16	Lebanese	B-OTH	-	stephen
+16	Lebanese	O	-	-
 17	political	O	-	-
 18	process	O	-	-
 19	in	O	-	-
@@ -27739,9 +27739,9 @@
 9	set	O	-	-
 10	forth	O	-	-
 11	in	O	-	-
-12	UNSC	B-OTH	-	stephen
-13	Resolution	I-OTH	-	stephen
-14	1559	I-OTH	-	stephen
+12	UNSC	O	-	-
+13	Resolution	O	-	-
+14	1559	O	-	-
 15	,	O	-	-
 16	which	O	-	-
 17	has	O	-	-
@@ -28008,7 +28008,7 @@
 11	1983	O	-	-
 12	,	O	-	-
 13	took	O	-	-
-14	Americans	B-OTH	-	stephen
+14	Americans	O	-	-
 15	hostage	O	-	-
 16	throughout	O	-	-
 17	the	O	-	-
@@ -28041,7 +28041,7 @@
 13	certainly	O	-	-
 14	not	O	-	-
 15	the	O	-	-
-16	Europeans	B-OTH	-	stephen
+16	Europeans	O	-	-
 17	.	O	-	-
 
 # newdoc id = weblog-blogspot.com_grandpasgripes_20060413051000_ENG_20060413_051000
@@ -28069,7 +28069,7 @@
 5	n't	O	-	-
 6	believe	O	-	-
 7	the	O	-	-
-8	Iranian	B-OTH	-	stephen
+8	Iranian	O	-	-
 9	Government	O	-	-
 10	.	O	-	-
 
@@ -28079,7 +28079,7 @@
 2	can	O	-	-
 3	suspect	O	-	-
 4	the	O	-	-
-5	Iranian	B-OTH	-	stephen
+5	Iranian	O	-	-
 6	Government	O	-	-
 7	.	O	-	-
 
@@ -28103,7 +28103,7 @@
 7	magazine	I-ORG	-	stephen
 8	accusing	O	-	-
 9	the	O	-	-
-10	Iranian	B-OTH	-	stephen
+10	Iranian	O	-	-
 11	Government	O	-	-
 12	of	O	-	-
 13	being	O	-	-
@@ -28235,7 +28235,7 @@
 7	President	O	-	-
 8	watched	O	-	-
 9	the	O	-	-
-10	Americans	B-OTH	-	stephen
+10	Americans	O	-	-
 11	in	O	-	-
 12	the	O	-	-
 13	embassy	O	-	-
@@ -28281,7 +28281,7 @@
 2	does	O	-	-
 3	seem	O	-	-
 4	that	O	-	-
-5	Iranians	B-OTH	-	stephen
+5	Iranians	O	-	-
 6	frequently	O	-	-
 7	make	O	-	-
 8	statements	O	-	-
@@ -29362,7 +29362,7 @@
 1	Angry	O	-	-
 2	crowds	O	-	-
 3	chanted	O	-	-
-4	anti-American	B-OTH	-	stephen
+4	anti-American	O	-	-
 5	slogans	O	-	-
 6	in	O	-	-
 7	the	O	-	-
@@ -29399,7 +29399,7 @@
 2	reported	O	-	-
 3	that	O	-	-
 4	"	O	-	-
-5	Sunni	B-OTH	-	stephen
+5	Sunni	O	-	-
 6	clerics	O	-	-
 7	in	O	-	-
 8	the	O	-	-
@@ -29473,7 +29473,7 @@
 1	Let	O	-	-
 2	aggressive	O	-	-
 3	(	O	-	-
-4	American	B-OTH	-	stephen
+4	American	O	-	-
 5	)	O	-	-
 6	leaders	O	-	-
 7	and	O	-	-
@@ -29535,7 +29535,7 @@
 14	,	O	-	-
 15	since	O	-	-
 16	local	O	-	-
-17	Sunnis	B-OTH	-	stephen
+17	Sunnis	O	-	-
 18	either	O	-	-
 19	remain	O	-	-
 20	committed	O	-	-
@@ -29545,7 +29545,7 @@
 24	or	O	-	-
 25	have	O	-	-
 26	become	O	-	-
-27	Sunni	B-OTH	-	stephen
+27	Sunni	O	-	-
 28	fundamentalists	O	-	-
 29	or	O	-	-
 30	even	O	-	-
@@ -29583,7 +29583,7 @@
 2	know	O	-	-
 3	that	O	-	-
 4	the	O	-	-
-5	American	B-OTH	-	stephen
+5	American	O	-	-
 6	advent	O	-	-
 7	implies	O	-	-
 8	for	O	-	-
@@ -29596,9 +29596,9 @@
 15	elevation	O	-	-
 16	of	O	-	-
 17	the	O	-	-
-18	Shiites	B-OTH	-	stephen
+18	Shiites	O	-	-
 19	and	O	-	-
-20	Kurds	B-OTH	-	stephen
+20	Kurds	O	-	-
 21	,	O	-	-
 22	and	O	-	-
 23	they	O	-	-
@@ -30616,7 +30616,7 @@
 19	Qaeda	I-ORG	-	stephen
 20	during	O	-	-
 21	the	O	-	-
-22	Afghan	B-OTH	-	stephen
+22	Afghan	O	-	-
 23	resistance	O	-	-
 24	days	O	-	-
 25	.	O	-	-
@@ -30744,7 +30744,7 @@
 12	few	O	-	-
 13	hundred	O	-	-
 14	"	O	-	-
-15	Afghan	B-OTH	-	stephen
+15	Afghan	O	-	-
 16	Arabs	O	-	-
 17	"	O	-	-
 18	who	O	-	-
@@ -30793,7 +30793,7 @@
 1	Because	O	-	-
 2	Usamah	B-PER	-	stephen
 3	is	O	-	-
-4	Saudi	B-OTH	-	stephen
+4	Saudi	O	-	-
 5	,	O	-	-
 6	my	O	-	-
 7	guess	O	-	-
@@ -30816,7 +30816,7 @@
 24	that	O	-	-
 25	predominates	O	-	-
 26	among	O	-	-
-27	Saudia	B-OTH	-	stephen
+27	Saudia	O	-	-
 28	's	O	-	-
 29	some	O	-	-
 30	15	O	-	-
@@ -30832,7 +30832,7 @@
 4	were	O	-	-
 5	joined	O	-	-
 6	by	O	-	-
-7	Egyptians	B-OTH	-	stephen
+7	Egyptians	O	-	-
 8	from	O	-	-
 9	the	O	-	-
 10	al	O	-	-
@@ -30878,7 +30878,7 @@
 11	enterprise	O	-	-
 12	between	O	-	-
 13	the	O	-	-
-14	Egyptian	B-OTH	-	stephen
+14	Egyptian	O	-	-
 15	extremists	O	-	-
 16	and	O	-	-
 17	the	O	-	-
@@ -30893,7 +30893,7 @@
 26	of	O	-	-
 27	whom	O	-	-
 28	were	O	-	-
-29	Saudi	B-OTH	-	stephen
+29	Saudi	O	-	-
 30	.	O	-	-
 
 # sent_id = weblog-juancole.com_juancole_20041018060600_ENG_20041018_060600-0013
@@ -30901,7 +30901,7 @@
 1	Zarqawi	B-PER	-	stephen
 2	is	O	-	-
 3	a	O	-	-
-4	Jordanian	B-OTH	-	stephen
+4	Jordanian	O	-	-
 5	,	O	-	-
 6	and	O	-	-
 7	his	O	-	-
@@ -30919,11 +30919,11 @@
 19	coloration	O	-	-
 20	as	O	-	-
 21	mainly	O	-	-
-22	Jordanian	B-OTH	-	stephen
+22	Jordanian	O	-	-
 23	,	O	-	-
-24	Palestinian	B-OTH	-	stephen
+24	Palestinian	O	-	-
 25	and	O	-	-
-26	Syrian	B-OTH	-	stephen
+26	Syrian	O	-	-
 27	.	O	-	-
 
 # sent_id = weblog-juancole.com_juancole_20041018060600_ENG_20041018_060600-0014
@@ -30952,7 +30952,7 @@
 5	oriented	O	-	-
 6	toward	O	-	-
 7	the	O	-	-
-8	Salafi	B-OTH	-	stephen
+8	Salafi	O	-	-
 9	school	O	-	-
 10	of	O	-	-
 11	modern	O	-	-
@@ -30987,7 +30987,7 @@
 # text = (Most Salafis are not militant or violent, though they tend to be rather narrow-minded in my experience, on the order of Protestant Pietists).
 1	(	O	-	-
 2	Most	O	-	-
-3	Salafis	B-OTH	-	stephen
+3	Salafis	O	-	-
 4	are	O	-	-
 5	not	O	-	-
 6	militant	O	-	-
@@ -31041,7 +31041,7 @@
 21	so	O	-	-
 22	-	O	-	-
 23	called	O	-	-
-24	German	B-OTH	-	stephen
+24	German	O	-	-
 25	Peasant	O	-	-
 26	Rebellion	O	-	-
 27	among	O	-	-
@@ -31058,8 +31058,8 @@
 4	is	O	-	-
 5	that	O	-	-
 6	local	O	-	-
-7	Iraqi	B-OTH	-	stephen
-8	Sunni	I-OTH	-	stephen
+7	Iraqi	O	-	-
+8	Sunni	O	-	-
 9	fundamentalists	O	-	-
 10	opposed	O	-	-
 11	to	O	-	-
@@ -31093,7 +31093,7 @@
 3	been	O	-	-
 4	sighted	O	-	-
 5	among	O	-	-
-6	Iraqi	B-OTH	-	stephen
+6	Iraqi	O	-	-
 7	crowds	O	-	-
 8	on	O	-	-
 9	Haifa	O	-	-
@@ -31205,8 +31205,8 @@
 13	among	O	-	-
 14	the	O	-	-
 15	few	O	-	-
-16	Sunni	B-OTH	-	stephen
-17	Muslim	I-OTH	-	stephen
+16	Sunni	O	-	-
+17	Muslim	O	-	-
 18	groups	O	-	-
 19	willing	O	-	-
 20	to	O	-	-
@@ -31219,7 +31219,7 @@
 27	)	O	-	-
 28	with	O	-	-
 29	the	O	-	-
-30	Americans	B-OTH	-	stephen
+30	Americans	O	-	-
 31	.	O	-	-
 
 # sent_id = weblog-juancole.com_juancole_20041109060653_ENG_20041109_060653-0002
@@ -31249,8 +31249,8 @@
 7	main	O	-	-
 8	force	O	-	-
 9	urging	O	-	-
-10	Sunni	B-OTH	-	stephen
-11	Arabs	I-OTH	-	stephen
+10	Sunni	O	-	-
+11	Arabs	O	-	-
 12	to	O	-	-
 13	participate	O	-	-
 14	in	O	-	-
@@ -31296,8 +31296,8 @@
 17	whether	O	-	-
 18	a	O	-	-
 19	mass	O	-	-
-20	Sunni	B-OTH	-	stephen
-21	Arab	I-OTH	-	stephen
+20	Sunni	O	-	-
+21	Arab	O	-	-
 22	boycott	O	-	-
 23	of	O	-	-
 24	the	O	-	-
@@ -31330,7 +31330,7 @@
 8	Muslim	I-ORG	-	stephen
 9	Scholars	I-ORG	-	stephen
 10	forbade	O	-	-
-11	Iraqis	B-OTH	-	stephen
+11	Iraqis	O	-	-
 12	to	O	-	-
 13	participate	O	-	-
 14	in	O	-	-
@@ -31340,7 +31340,7 @@
 18	Fallujah	B-LOC	-	stephen
 19	with	O	-	-
 20	the	O	-	-
-21	Americans	B-OTH	-	stephen
+21	Americans	O	-	-
 22	.	O	-	-
 
 # sent_id = weblog-juancole.com_juancole_20041109060653_ENG_20041109_060653-0006
@@ -31354,7 +31354,7 @@
 7	said	O	-	-
 8	that	O	-	-
 9	for	O	-	-
-10	Iraqis	B-OTH	-	stephen
+10	Iraqis	O	-	-
 11	to	O	-	-
 12	take	O	-	-
 13	part	O	-	-
@@ -31375,7 +31375,7 @@
 28	of	O	-	-
 29	which	O	-	-
 30	is	O	-	-
-31	Muslim	B-OTH	-	stephen
+31	Muslim	O	-	-
 32	(	O	-	-
 33	such	O	-	-
 34	as	O	-	-
@@ -31395,10 +31395,10 @@
 # sent_id = weblog-juancole.com_juancole_20041109060653_ENG_20041109_060653-0007
 # text = The Sunni AMS told Iraqis, "You sinned when you participated with occupation forces in the assault on Najaf, and beware lest you repeat this same sin in Fallujah.
 1	The	O	-	-
-2	Sunni	B-OTH	-	stephen
+2	Sunni	O	-	-
 3	AMS	B-ORG	-	stephen
 4	told	O	-	-
-5	Iraqis	B-OTH	-	stephen
+5	Iraqis	O	-	-
 6	,	O	-	-
 7	"	O	-	-
 8	You	O	-	-
@@ -31442,7 +31442,7 @@
 # text = The radical Shiite Sadr movement issued a statement forbidding the participation of Iraqi troops in the attack on Fallujah, as well.
 1	The	O	-	-
 2	radical	O	-	-
-3	Shiite	B-OTH	-	stephen
+3	Shiite	O	-	-
 4	Sadr	B-ORG	-	stephen
 5	movement	O	-	-
 6	issued	O	-	-
@@ -31494,7 +31494,7 @@
 26	of	O	-	-
 27	whom	O	-	-
 28	are	O	-	-
-29	Muslim	B-OTH	-	stephen
+29	Muslim	O	-	-
 30	,	O	-	-
 31	calling	O	-	-
 32	upon	O	-	-
@@ -31569,8 +31569,8 @@
 6	the	O	-	-
 7	more	O	-	-
 8	militant	O	-	-
-9	Sunni	B-OTH	-	stephen
-10	Muslim	I-OTH	-	stephen
+9	Sunni	O	-	-
+10	Muslim	O	-	-
 11	clerics	O	-	-
 12	of	O	-	-
 13	AMS	B-ORG	-	stephen
@@ -31626,7 +31626,7 @@
 13	to	O	-	-
 14	support	O	-	-
 15	the	O	-	-
-16	Sunnis	B-OTH	-	stephen
+16	Sunnis	O	-	-
 17	of	O	-	-
 18	Fallujah	B-LOC	-	stephen
 19	,	O	-	-
@@ -31638,7 +31638,7 @@
 25	Saddam	B-PER	-	stephen
 26	and	O	-	-
 27	his	O	-	-
-28	anti-Shiite	B-OTH	-	stephen
+28	anti-Shiite	O	-	-
 29	pogroms	O	-	-
 30	.	O	-	-
 
