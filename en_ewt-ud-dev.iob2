@@ -14,7 +14,7 @@
 11	will	O	-	-
 12	like	O	-	-
 13	the	O	-	-
-14	argentinian	B-OTH	-	stephen
+14	argentinian	O	-	-
 15	type	O	-	-
 16	,	O	-	-
 17	but	O	-	-
@@ -187,7 +187,7 @@
 4	Miramar	B-LOC	-	stephen
 5	I	O	-	-
 6	say	O	-	-
-7	Piramar	B-OTH	-	stephen
+7	Piramar	O	-	-
 
 # sent_id = answers-20070723111604AAzUvhb_ans-0004
 # text = MIRAMAR
@@ -195,7 +195,7 @@
 
 # sent_id = answers-20070723111604AAzUvhb_ans-0005
 # text = PIRAMAR
-1	PIRAMAR	B-OTH	-	stephen
+1	PIRAMAR	O	-	-
 
 # sent_id = answers-20070723111604AAzUvhb_ans-0006
 # text = Let s call the whole thing off.
@@ -271,7 +271,7 @@
 3	you	O	-	-
 4	eat	O	-	-
 5	in	O	-	-
-6	Miramar	O	-	-
+6	Miramar	B-LOC	-	stephen
 7	?	O	-	-
 
 # sent_id = answers-20080426141111AAgPUwU_ans-0002
@@ -283,7 +283,7 @@
 5	they	O	-	-
 6	eat	O	-	-
 7	in	O	-	-
-8	Spanish	B-OTH	-	stephen
+8	Spanish	O	-	-
 9	countries	O	-	-
 10	like	O	-	-
 11	tacos	O	-	-
@@ -751,7 +751,7 @@
 
 # sent_id = answers-20090717131608AAqDfYJ_ans-0002
 # text = Argentinian foods of course, LMAO.
-1	Argentinian	B-OTH	-	stephen
+1	Argentinian	O	-	-
 2	foods	O	-	-
 3	of	O	-	-
 4	course	O	-	-
@@ -984,7 +984,7 @@
 9	in	O	-	-
 10	malaysia	B-LOC	-	stephen
 11	,	O	-	-
-12	german	B-OTH	-	stephen
+12	german	O	-	-
 13	citizen	O	-	-
 14	,	O	-	-
 15	21	O	-	-
@@ -1060,7 +1060,7 @@
 4	call	O	-	-
 5	)	O	-	-
 6	an	O	-	-
-7	Asian	B-OTH	-	stephen
+7	Asian	O	-	-
 8	airline	O	-	-
 9	directly	O	-	-
 10	and	O	-	-
@@ -2349,7 +2349,7 @@
 4	war	O	-	-
 5	on	O	-	-
 6	the	O	-	-
-7	American	B-OTH	-	stephen
+7	American	O	-	-
 8	people	O	-	-
 9	?	O	-	-
 
@@ -2419,7 +2419,7 @@
 1	What	O	-	-
 2	is	O	-	-
 3	this	O	-	-
-4	irish	B-OTH	-	stephen
+4	irish	O	-	-
 5	tune	O	-	-
 6	called	O	-	-
 7	!?	O	-	-
@@ -2456,9 +2456,9 @@
 13	i	O	-	-
 14	remember	O	-	-
 15	is	O	-	-
-16	de	B-OTH	-	stephen
-17	lunde	I-OTH	-	stephen
-18	bar	I-OTH	-	stephen
+16	de	O	-	-
+17	lunde	O	-	-
+18	bar	O	-	-
 19	..	O	-	-
 20	or	O	-	-
 21	something	O	-	-
@@ -2520,7 +2520,7 @@
 6	then	O	-	-
 7	it	O	-	-
 8	s	O	-	-
-9	scottish	B-OTH	-	stephen
+9	scottish	O	-	-
 
 # newdoc id = answers-20111107155302AAXXuM1_ans
 # sent_id = answers-20111107155302AAXXuM1_ans-0001
@@ -2585,7 +2585,7 @@
 10	located	O	-	-
 11	next	O	-	-
 12	to	O	-	-
-13	BARTrail	B-OTH	-	stephen
+13	BARTrail	O	-	-
 14	.	O	-	-
 
 # sent_id = answers-20111107155302AAXXuM1_ans-0004
@@ -2963,9 +2963,9 @@
 4	can	O	-	-
 5	I	O	-	-
 6	watch	O	-	-
-7	Fair	B-OTH	-	stephen
-8	City	I-OTH	-	stephen
-9	Online	I-OTH	-	stephen
+7	Fair	O	-	-
+8	City	O	-	-
+9	Online	O	-	-
 10	in	O	-	-
 11	England	B-LOC	-	stephen
 12	lols	O	-	-
@@ -3857,7 +3857,7 @@
 5	a	O	-	-
 6	woman	O	-	-
 7	in	O	-	-
-8	french	B-OTH	-	stephen
+8	french	O	-	-
 9	culture	O	-	-
 10	to	O	-	-
 11	make	O	-	-
@@ -3870,7 +3870,7 @@
 # text = What do french men find sexy?
 1	What	O	-	-
 2	do	O	-	-
-3	french	B-OTH	-	stephen
+3	french	O	-	-
 4	men	O	-	-
 5	find	O	-	-
 6	sexy	O	-	-
@@ -3878,7 +3878,7 @@
 
 # sent_id = answers-20111108071348AAWu2FU_ans-0008
 # text = French women are the ones to say yes, the way we say it is not usually as straigthforward as you propose to do.
-1	French	B-OTH	-	stephen
+1	French	O	-	-
 2	women	O	-	-
 3	are	O	-	-
 4	the	O	-	-
@@ -3959,10 +3959,10 @@
 # newdoc id = answers-20111108072305AAPJTjj_ans
 # sent_id = answers-20111108072305AAPJTjj_ans-0001
 # text = Canon sx40 or canon s100 ?
-1	Canon	B-OTH	-	stephen
+1	Canon	O	-	-
 2	sx40	O	-	-
 3	or	O	-	-
-4	canon	B-OTH	-	stephen
+4	canon	O	-	-
 5	s100	O	-	-
 6	?	O	-	-
 
@@ -4142,7 +4142,7 @@
 9	7	O	-	-
 10	on	O	-	-
 11	your	O	-	-
-12	apple	B-OTH	-	stephen
+12	apple	O	-	-
 13	ipod	O	-	-
 14	8	O	-	-
 15	gb	O	-	-
@@ -4206,7 +4206,7 @@
 19	guess	O	-	-
 20	like	O	-	-
 21	an	O	-	-
-22	iphone	B-OTH	-	stephen
+22	iphone	O	-	-
 23	,	O	-	-
 24	but	O	-	-
 25	that	O	-	-
@@ -4249,7 +4249,7 @@
 3	ta	O	-	-
 4	get	O	-	-
 5	an	O	-	-
-6	iPhone	B-OTH	-	stephen
+6	iPhone	O	-	-
 7	for	O	-	-
 8	3G	O	-	-
 9	...	O	-	-
@@ -4310,9 +4310,9 @@
 3	you	O	-	-
 4	mean	O	-	-
 5	the	O	-	-
-6	crazy	B-OTH	-	stephen
-7	horse	I-OTH	-	stephen
-8	memorial	I-OTH	-	stephen
+6	crazy	O	-	-
+7	horse	O	-	-
+8	memorial	O	-	-
 9	.	O	-	-
 
 # sent_id = answers-20111108082040AAmrGJ5_ans-0004
@@ -4383,7 +4383,7 @@
 # text = Was the iPhone the first Smart Phone?
 1	Was	O	-	-
 2	the	O	-	-
-3	iPhone	B-OTH	-	stephen
+3	iPhone	O	-	-
 4	the	O	-	-
 5	first	O	-	-
 6	Smart	O	-	-
@@ -4406,7 +4406,7 @@
 12	know	O	-	-
 13	if	O	-	-
 14	the	O	-	-
-15	iPhone	B-OTH	-	stephen
+15	iPhone	O	-	-
 16	was	O	-	-
 17	the	O	-	-
 18	first	O	-	-
@@ -4424,7 +4424,7 @@
 # text = Technically, blackberry was because it was the first with real email and games and stuff.
 1	Technically	O	-	-
 2	,	O	-	-
-3	blackberry	B-OTH	-	stephen
+3	blackberry	O	-	-
 4	was	O	-	-
 5	because	O	-	-
 6	it	O	-	-
@@ -4443,7 +4443,7 @@
 # sent_id = answers-20111108083304AAryBu9_ans-0005
 # text = But iPhone was the first "Officiol" touch screen smart phone.
 1	But	O	-	-
-2	iPhone	B-OTH	-	stephen
+2	iPhone	O	-	-
 3	was	O	-	-
 4	the	O	-	-
 5	first	O	-	-
@@ -4584,9 +4584,9 @@
 3	a	O	-	-
 4	phone	O	-	-
 5	to	O	-	-
-6	Mobile	B-OTH	-	stephen
-7	Phone	I-OTH	-	stephen
-8	Exchange	I-OTH	-	stephen
+6	Mobile	O	-	-
+7	Phone	O	-	-
+8	Exchange	O	-	-
 9	and	O	-	-
 10	it	O	-	-
 11	failed	O	-	-
@@ -4743,7 +4743,7 @@
 15	found	O	-	-
 16	after	O	-	-
 17	the	O	-	-
-18	Natzi	B-OTH	-	stephen
+18	Natzi	O	-	-
 19	stole	O	-	-
 20	them	O	-	-
 21	?	O	-	-
@@ -4751,7 +4751,7 @@
 # sent_id = answers-20111108090559AAyAHCk_ans-0002
 # text = google nazi stolen art recovery...
 1	google	O	-	-
-2	nazi	B-OTH	-	stephen
+2	nazi	O	-	-
 3	stolen	O	-	-
 4	art	O	-	-
 5	recovery	O	-	-
@@ -4771,7 +4771,7 @@
 10	art	O	-	-
 11	by	O	-	-
 12	the	O	-	-
-13	Nazis	B-OTH	-	stephen
+13	Nazis	O	-	-
 14	...	O	-	-
 15	70	O	-	-
 16	k	O	-	-
@@ -4883,9 +4883,9 @@
 4	ply	O	-	-
 5	frequently	O	-	-
 6	between	O	-	-
-7	Sector	B-OTH	-	stephen
-8	-	I-OTH	-	stephen
-9	37	I-OTH	-	stephen
+7	Sector	O	-	-
+8	-	O	-	-
+9	37	O	-	-
 10	crossing	O	-	-
 11	in	O	-	-
 12	Noida	B-LOC	-	stephen
@@ -4914,9 +4914,9 @@
 9	ferry	O	-	-
 10	passengers	O	-	-
 11	between	O	-	-
-12	Sector	B-OTH	-	stephen
-13	-	I-OTH	-	stephen
-14	37	I-OTH	-	stephen
+12	Sector	O	-	-
+13	-	O	-	-
+14	37	O	-	-
 15	crossing	O	-	-
 16	and	O	-	-
 17	Pari	B-LOC	-	stephen
@@ -5009,9 +5009,9 @@
 7	Oil	I-LOC	-	stephen
 8	Building	I-LOC	-	stephen
 9	,	O	-	-
-10	Sector	B-OTH	-	stephen
-11	-	I-OTH	-	stephen
-12	37	I-OTH	-	stephen
+10	Sector	O	-	-
+11	-	O	-	-
+12	37	O	-	-
 13	,	O	-	-
 14	Taj	O	-	-
 15	Express	O	-	-
@@ -6311,7 +6311,7 @@
 13	wan	O	-	-
 14	na	O	-	-
 15	meet	O	-	-
-16	american	B-OTH	-	stephen
+16	american	O	-	-
 17	girls	O	-	-
 18	there	O	-	-
 19	where	O	-	-
@@ -6341,7 +6341,7 @@
 6	if	O	-	-
 7	i	O	-	-
 8	am	O	-	-
-9	mexican	B-OTH	-	stephen
+9	mexican	O	-	-
 10	?	O	-	-
 
 # sent_id = answers-20111108110008AA7xHnL_ans-0005
@@ -6349,7 +6349,7 @@
 1	You	O	-	-
 2	can	O	-	-
 3	find	O	-	-
-4	American	B-OTH	-	stephen
+4	American	O	-	-
 5	girls	O	-	-
 6	all	O	-	-
 7	over	O	-	-
@@ -6433,7 +6433,7 @@
 1	information	O	-	-
 2	on	O	-	-
 3	the	O	-	-
-4	Eurostar	B-OTH	-	stephen
+4	Eurostar	O	-	-
 5	train	O	-	-
 6	?	O	-	-
 
@@ -6444,7 +6444,7 @@
 3	go	O	-	-
 4	on	O	-	-
 5	the	O	-	-
-6	Eurostar	B-OTH	-	stephen
+6	Eurostar	O	-	-
 7	train	O	-	-
 8	on	O	-	-
 9	there	O	-	-
@@ -6456,7 +6456,7 @@
 15	about	O	-	-
 16	is	O	-	-
 17	the	O	-	-
-18	Eurostar	B-OTH	-	stephen
+18	Eurostar	O	-	-
 19	located	O	-	-
 
 # sent_id = answers-20111108111203AA6gfnr_ans-0003
@@ -6480,7 +6480,7 @@
 10	travel	O	-	-
 11	alone	O	-	-
 12	at	O	-	-
-13	Eurostar	B-OTH	-	stephen
+13	Eurostar	O	-	-
 14	's	O	-	-
 15	discretion	O	-	-
 16	-	O	-	-
@@ -6495,7 +6495,7 @@
 
 # sent_id = answers-20111108111203AA6gfnr_ans-0005
 # text = Eurostar runs from London St Pancras station.
-1	Eurostar	B-OTH	-	stephen
+1	Eurostar	O	-	-
 2	runs	O	-	-
 3	from	O	-	-
 4	London	B-LOC	-	stephen
@@ -6868,10 +6868,10 @@
 7	the	O	-	-
 8	issue	O	-	-
 9	of	O	-	-
-10	Deferred	B-OTH	-	stephen
-11	Phantom	I-OTH	-	stephen
-12	Stock	I-OTH	-	stephen
-13	Units	I-OTH	-	stephen
+10	Deferred	O	-	-
+11	Phantom	O	-	-
+12	Stock	O	-	-
+13	Units	O	-	-
 14	.	O	-	-
 
 # sent_id = email-enronsent00_02-0024
@@ -7645,8 +7645,8 @@
 12	go	O	-	-
 13	directly	O	-	-
 14	to	O	-	-
-15	Internet	B-OTH	-	stephen
-16	Explorer	I-OTH	-	stephen
+15	Internet	O	-	-
+16	Explorer	O	-	-
 17	or	O	-	-
 18	Netscape	O	-	-
 19	and	O	-	-
@@ -13761,7 +13761,7 @@
 # sent_id = newsgroup-groups.google.com_AlaskaTheLastFrontier_e483fe7209d6282b_ENG_20050531_202500-0003
 # text = The Alaskan Knight
 1	The	O	-	-
-2	Alaskan	B-OTH	-	stephen
+2	Alaskan	O	-	-
 3	Knight	O	-	-
 
 # newdoc id = newsgroup-groups.google.com_AlexandrianReligiousStudies_ebcd97e243c4440b_ENG_20051021_201800
@@ -14175,9 +14175,9 @@
 # text = Currently, Mercury and Venus is conjunct and the conjunction is being closely aspected by Rahu.
 1	Currently	O	-	-
 2	,	O	-	-
-3	Mercury	B-OTH	-	stephen
+3	Mercury	O	-	-
 4	and	O	-	-
-5	Venus	B-OTH	-	stephen
+5	Venus	O	-	-
 6	is	O	-	-
 7	conjunct	O	-	-
 8	and	O	-	-
@@ -14188,7 +14188,7 @@
 13	closely	O	-	-
 14	aspected	O	-	-
 15	by	O	-	-
-16	Rahu	B-OTH	-	stephen
+16	Rahu	O	-	-
 17	.	O	-	-
 
 # sent_id = newsgroup-groups.google.com_JyotishRemedies_7596b7f4aa16afa6_ENG_20050713_030900-0004
@@ -14203,21 +14203,21 @@
 8	affliction	O	-	-
 9	to	O	-	-
 10	transit	O	-	-
-11	Venus	B-OTH	-	stephen
+11	Venus	O	-	-
 12	in	O	-	-
 13	the	O	-	-
 14	fourth	O	-	-
 15	house	O	-	-
 16	by	O	-	-
 17	FMs	O	-	-
-18	Rahu	B-OTH	-	stephen
+18	Rahu	O	-	-
 19	and	O	-	-
-20	Mercury	B-OTH	-	stephen
+20	Mercury	O	-	-
 21	,	O	-	-
 22	natal	O	-	-
-23	Saturn	B-OTH	-	stephen
+23	Saturn	O	-	-
 24	and	O	-	-
-25	Venus	B-OTH	-	stephen
+25	Venus	O	-	-
 26	are	O	-	-
 27	also	O	-	-
 28	under	O	-	-
@@ -14226,7 +14226,7 @@
 31	affliction	O	-	-
 32	of	O	-	-
 33	transit	O	-	-
-34	Rahu	B-OTH	-	stephen
+34	Rahu	O	-	-
 35	.	O	-	-
 
 # sent_id = newsgroup-groups.google.com_JyotishRemedies_7596b7f4aa16afa6_ENG_20050713_030900-0005
@@ -14255,7 +14255,7 @@
 # sent_id = newsgroup-groups.google.com_JyotishRemedies_7596b7f4aa16afa6_ENG_20050713_030900-0006
 # text = In Indian national chart besides the transit affliction to transit Mercury by Rahu and Venus the natal Saturn and Venus are also under the transit affliction of Rahu which has resulted into floods in many parts of the country taking toll of human lives, properties, etc.
 1	In	O	-	-
-2	Indian	B-OTH	-	stephen
+2	Indian	O	-	-
 3	national	O	-	-
 4	chart	O	-	-
 5	besides	O	-	-
@@ -14264,16 +14264,16 @@
 8	affliction	O	-	-
 9	to	O	-	-
 10	transit	O	-	-
-11	Mercury	B-OTH	-	stephen
+11	Mercury	O	-	-
 12	by	O	-	-
-13	Rahu	B-OTH	-	stephen
+13	Rahu	O	-	-
 14	and	O	-	-
-15	Venus	B-OTH	-	stephen
+15	Venus	O	-	-
 16	the	O	-	-
 17	natal	O	-	-
-18	Saturn	B-OTH	-	stephen
+18	Saturn	O	-	-
 19	and	O	-	-
-20	Venus	B-OTH	-	stephen
+20	Venus	O	-	-
 21	are	O	-	-
 22	also	O	-	-
 23	under	O	-	-
@@ -14281,7 +14281,7 @@
 25	transit	O	-	-
 26	affliction	O	-	-
 27	of	O	-	-
-28	Rahu	B-OTH	-	stephen
+28	Rahu	O	-	-
 29	which	O	-	-
 30	has	O	-	-
 31	resulted	O	-	-
@@ -14454,8 +14454,8 @@
 5	Orleans	I-LOC	-	stephen
 6	after	O	-	-
 7	the	O	-	-
-8	Hurricane	B-OTH	-	stephen
-9	Katrina	I-OTH	-	stephen
+8	Hurricane	O	-	-
+9	Katrina	O	-	-
 10	evacuation	O	-	-
 11	,	O	-	-
 12	former	O	-	-
@@ -14524,8 +14524,8 @@
 3	the	O	-	-
 4	wake	O	-	-
 5	of	O	-	-
-6	Hurricane	B-OTH	-	stephen
-7	Katrina	I-OTH	-	stephen
+6	Hurricane	O	-	-
+7	Katrina	O	-	-
 8	,	O	-	-
 9	affordable	O	-	-
 10	housing	O	-	-
@@ -14939,7 +14939,7 @@
 14	to	O	-	-
 15	browse	O	-	-
 16	the	O	-	-
-17	japanese	B-OTH	-	stephen
+17	japanese	O	-	-
 18	website	O	-	-
 19	while	O	-	-
 20	i	O	-	-
@@ -15945,7 +15945,7 @@
 4	Directly	O	-	-
 5	to	O	-	-
 6	your	O	-	-
-7	PayPal	B-OTH	-	stephen
+7	PayPal	O	-	-
 8	account	O	-	-
 9	!	O	-	-
 
@@ -15971,7 +15971,7 @@
 18	directly	O	-	-
 19	to	O	-	-
 20	your	O	-	-
-21	PayPal	B-OTH	-	stephen
+21	PayPal	O	-	-
 22	account	O	-	-
 23	.	O	-	-
 
@@ -16478,7 +16478,7 @@
 25	small	O	-	-
 26	and	O	-	-
 27	remote	O	-	-
-28	Indian	B-OTH	-	stephen
+28	Indian	O	-	-
 29	village	O	-	-
 30	in	O	-	-
 31	the	O	-	-
@@ -16841,7 +16841,7 @@
 17	source	O	-	-
 18	link	O	-	-
 19	)	O	-	-
-20	Palestinian	B-OTH	-	stephen
+20	Palestinian	O	-	-
 21	Leader	O	-	-
 22	Mahmoud	B-PER	-	stephen
 23	Abbas	I-PER	-	stephen
@@ -16916,7 +16916,7 @@
 31	providing	O	-	-
 32	for	O	-	-
 33	the	O	-	-
-34	Palestinians	B-OTH	-	stephen
+34	Palestinians	O	-	-
 35	)	O	-	-
 36	rule	O	-	-
 37	the	O	-	-
@@ -16935,7 +16935,7 @@
 # sent_id = newsgroup-groups.google.com_hiddennook_23708a8afef2f3a8_ENG_20041226_230600-0006
 # text = Interim Palestinian leader and the front-runner in the upcoming Jan. 9, 2005 presidential election Mahmoud Abbas talks during his first official campaign speech in the West Bank town of Ramallah, Saturday Dec. 25, 2004.
 1	Interim	O	-	-
-2	Palestinian	B-OTH	-	stephen
+2	Palestinian	O	-	-
 3	leader	O	-	-
 4	and	O	-	-
 5	the	O	-	-
@@ -16989,7 +16989,7 @@
 10	pledged	O	-	-
 11	to	O	-	-
 12	fulfill	O	-	-
-13	Palestinian	B-OTH	-	stephen
+13	Palestinian	O	-	-
 14	dreams	O	-	-
 15	of	O	-	-
 16	statehood	O	-	-
@@ -17001,7 +17001,7 @@
 2	seems	O	-	-
 3	that	O	-	-
 4	the	O	-	-
-5	Palestinian	B-OTH	-	stephen
+5	Palestinian	O	-	-
 6	leadership	O	-	-
 7	(	O	-	-
 8	upcoming	O	-	-
@@ -17089,7 +17089,7 @@
 8	of	O	-	-
 9	millions	O	-	-
 10	of	O	-	-
-11	Palestinian	B-OTH	-	stephen
+11	Palestinian	O	-	-
 12	refugees	O	-	-
 13	and	O	-	-
 14	their	O	-	-
@@ -17181,11 +17181,11 @@
 22	peace	O	-	-
 23	in	O	-	-
 24	the	O	-	-
-25	Holy	B-OTH	-	stephen
-26	Land	I-OTH	-	stephen
+25	Holy	O	-	-
+26	Land	O	-	-
 27	and	O	-	-
 28	the	O	-	-
-29	Palestinians	B-OTH	-	stephen
+29	Palestinians	O	-	-
 30	will	O	-	-
 31	ultimately	O	-	-
 32	suffer	O	-	-
@@ -17241,7 +17241,7 @@
 # sent_id = newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0004
 # text = The Palestinian militant organisation Hamas has announced an end to rocket attacks on Israel from the Gaza Strip after a weekend of escalating violence.
 1	The	O	-	-
-2	Palestinian	B-OTH	-	stephen
+2	Palestinian	O	-	-
 3	militant	O	-	-
 4	organisation	O	-	-
 5	Hamas	B-ORG	-	stephen
@@ -17402,7 +17402,7 @@
 10	many	O	-	-
 11	see	O	-	-
 12	the	O	-	-
-13	Israeli	B-OTH	-	stephen
+13	Israeli	O	-	-
 14	air	O	-	-
 15	strikes	O	-	-
 16	as	O	-	-
@@ -17413,7 +17413,7 @@
 21	rocket	O	-	-
 22	attacks	O	-	-
 23	upon	O	-	-
-24	Israeli	B-OTH	-	stephen
+24	Israeli	O	-	-
 25	soil	O	-	-
 26	.	O	-	-
 
@@ -17442,8 +17442,8 @@
 21	be	O	-	-
 22	said	O	-	-
 23	of	O	-	-
-24	Islamic	B-OTH	-	stephen
-25	Jihad	I-OTH	-	stephen
+24	Islamic	O	-	-
+25	Jihad	O	-	-
 26	.	O	-	-
 
 # sent_id = newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0012
@@ -17472,11 +17472,11 @@
 15	light	O	-	-
 16	of	O	-	-
 17	the	O	-	-
-18	Israeli	B-OTH	-	stephen
+18	Israeli	O	-	-
 19	escalation	O	-	-
 20	against	O	-	-
 21	the	O	-	-
-22	Palestinians	B-OTH	-	stephen
+22	Palestinians	O	-	-
 23	,	O	-	-
 24	"	O	-	-
 25	commented	O	-	-
@@ -17485,8 +17485,8 @@
 28	,	O	-	-
 29	a	O	-	-
 30	senior	O	-	-
-31	Islamic	B-OTH	-	stephen
-32	Jihad	I-OTH	-	stephen
+31	Islamic	O	-	-
+32	Jihad	O	-	-
 33	official	O	-	-
 34	.	O	-	-
 
@@ -17521,7 +17521,7 @@
 5	not	O	-	-
 6	with	O	-	-
 7	the	O	-	-
-8	Palestinian	B-OTH	-	stephen
+8	Palestinian	O	-	-
 9	resistance	O	-	-
 10	groups	O	-	-
 11	but	O	-	-
@@ -17532,7 +17532,7 @@
 16	to	O	-	-
 17	destroy	O	-	-
 18	the	O	-	-
-19	Palestinians	B-OTH	-	stephen
+19	Palestinians	O	-	-
 20	'	O	-	-
 21	infrastructure	O	-	-
 22	,	O	-	-
@@ -17557,7 +17557,7 @@
 12	,	O	-	-
 13	and	O	-	-
 14	the	O	-	-
-15	Israeli	B-OTH	-	stephen
+15	Israeli	O	-	-
 16	occupation	O	-	-
 17	does	O	-	-
 18	not	O	-	-
@@ -17576,7 +17576,7 @@
 3	to	O	-	-
 4	drive	O	-	-
 5	the	O	-	-
-6	Palestinians	B-OTH	-	stephen
+6	Palestinians	O	-	-
 7	toward	O	-	-
 8	civil	O	-	-
 9	war	O	-	-
@@ -17585,8 +17585,8 @@
 
 # sent_id = newsgroup-groups.google.com_hiddennook_5380fdd00f8e5e56_ENG_20050926_194800-0019
 # text = Islamic Jihad has refused to recognized the cease fire, and hopes to turn the Gaza strip "into a vast battlefield."
-1	Islamic	B-OTH	-	stephen
-2	Jihad	I-OTH	-	stephen
+1	Islamic	O	-	-
+2	Jihad	O	-	-
 3	has	O	-	-
 4	refused	O	-	-
 5	to	O	-	-
@@ -18290,8 +18290,8 @@
 6	Wednesday	O	-	-
 7	as	O	-	-
 8	strengthening	O	-	-
-9	Hurricane	B-OTH	-	stephen
-10	Rita	I-OTH	-	stephen
+9	Hurricane	O	-	-
+10	Rita	O	-	-
 11	,	O	-	-
 12	now	O	-	-
 13	a	O	-	-
@@ -18346,9 +18346,9 @@
 4	the	O	-	-
 5	price	O	-	-
 6	of	O	-	-
-7	Brent	B-OTH	-	stephen
-8	North	I-OTH	-	stephen
-9	Sea	I-OTH	-	stephen
+7	Brent	O	-	-
+8	North	O	-	-
+9	Sea	O	-	-
 10	crude	O	-	-
 11	for	O	-	-
 12	November	O	-	-
@@ -18372,7 +18372,7 @@
 7	on	O	-	-
 8	Tuesday	O	-	-
 9	,	O	-	-
-10	Rita	B-OTH	-	stephen
+10	Rita	O	-	-
 11	packed	O	-	-
 12	winds	O	-	-
 13	of	O	-	-
@@ -18399,7 +18399,7 @@
 4	Hurricane	I-ORG	-	stephen
 5	Center	I-ORG	-	stephen
 6	said	O	-	-
-7	Rita	B-OTH	-	stephen
+7	Rita	O	-	-
 8	was	O	-	-
 9	"	O	-	-
 10	extremely	O	-	-
@@ -18417,9 +18417,9 @@
 22	storm	O	-	-
 23	on	O	-	-
 24	the	O	-	-
-25	Saffir	B-OTH	-	stephen
-26	-	I-OTH	-	stephen
-27	Simpson	I-OTH	-	stephen
+25	Saffir	O	-	-
+26	-	O	-	-
+27	Simpson	O	-	-
 28	scale	O	-	-
 29	.	O	-	-
 
@@ -18531,7 +18531,7 @@
 1	Last	O	-	-
 2	month	O	-	-
 3	,	O	-	-
-4	Katrina	B-OTH	-	stephen
+4	Katrina	O	-	-
 5	devastated	O	-	-
 6	refineries	O	-	-
 7	in	O	-	-
@@ -18588,7 +18588,7 @@
 # text = The former Iraqi leader Saddam Hussein is refusing to enter the Baghdad courtroom, in protest at how his trial is being conducted.
 1	The	O	-	-
 2	former	O	-	-
-3	Iraqi	B-OTH	-	stephen
+3	Iraqi	O	-	-
 4	leader	O	-	-
 5	Saddam	B-PER	-	stephen
 6	Hussein	I-PER	-	stephen
@@ -20000,7 +20000,7 @@
 4	looking	O	-	-
 5	for	O	-	-
 6	homestyle	O	-	-
-7	Japanese	B-OTH	-	stephen
+7	Japanese	O	-	-
 8	food	O	-	-
 9	,	O	-	-
 10	you	O	-	-
@@ -20095,11 +20095,11 @@
 4	student	O	-	-
 5	body	O	-	-
 6	(	O	-	-
-7	African	B-OTH	-	stephen
-8	-	I-OTH	-	stephen
-9	American	I-OTH	-	stephen
+7	African	O	-	-
+8	-	O	-	-
+9	American	O	-	-
 10	,	O	-	-
-11	Asian	B-OTH	-	stephen
+11	Asian	O	-	-
 12	,	O	-	-
 13	ect.	O	-	-
 14	)	O	-	-
@@ -20542,7 +20542,7 @@
 6	for	O	-	-
 7	my	O	-	-
 8	Toyota	B-ORG	-	stephen
-9	Venza	B-OTH	-	stephen
+9	Venza	O	-	-
 10	that	O	-	-
 11	looks	O	-	-
 12	amazing	O	-	-
@@ -20683,7 +20683,7 @@
 4	looking	O	-	-
 5	for	O	-	-
 6	authentic	O	-	-
-7	British	B-OTH	-	stephen
+7	British	O	-	-
 8	meat	O	-	-
 9	pies	O	-	-
 10	,	O	-	-
@@ -20852,7 +20852,7 @@
 1	Over	O	-	-
 2	priced	O	-	-
 3	for	O	-	-
-4	Mexican	B-OTH	-	stephen
+4	Mexican	O	-	-
 5	food	O	-	-
 
 # newdoc id = reviews-107292
@@ -21443,7 +21443,7 @@
 5	the	O	-	-
 6	very	O	-	-
 7	best	O	-	-
-8	American	B-OTH	-	stephen
+8	American	O	-	-
 9	blown	O	-	-
 10	glass	O	-	-
 11	.	O	-	-
@@ -21490,7 +21490,7 @@
 1	I	O	-	-
 2	took	O	-	-
 3	my	O	-	-
-4	Mustang	B-OTH	-	stephen
+4	Mustang	O	-	-
 5	here	O	-	-
 6	and	O	-	-
 7	it	O	-	-
@@ -22978,7 +22978,7 @@
 1	I	O	-	-
 2	have	O	-	-
 3	a	O	-	-
-4	Saab	B-OTH	-	stephen
+4	Saab	O	-	-
 5	...	O	-	-
 6	which	O	-	-
 7	everything	O	-	-
@@ -23028,11 +23028,11 @@
 4	for	O	-	-
 5	our	O	-	-
 6	Annual	O	-	-
-7	Walk	B-OTH	-	stephen
-8	Against	I-OTH	-	stephen
-9	Drugs	I-OTH	-	stephen
-10	and	I-OTH	-	stephen
-11	Alcohol	I-OTH	-	stephen
+7	Walk	O	-	-
+8	Against	O	-	-
+9	Drugs	O	-	-
+10	and	O	-	-
+11	Alcohol	O	-	-
 12	event	O	-	-
 13	.	O	-	-
 
@@ -23435,9 +23435,9 @@
 1	Remember	O	-	-
 2	seeing	O	-	-
 3	"	O	-	-
-4	Stop	B-OTH	-	stephen
-5	Making	I-OTH	-	stephen
-6	Sense	I-OTH	-	stephen
+4	Stop	O	-	-
+5	Making	O	-	-
+6	Sense	O	-	-
 7	"	O	-	-
 8	at	O	-	-
 9	Cinema	B-LOC	-	stephen
@@ -23620,7 +23620,7 @@
 4	to	O	-	-
 5	improve	O	-	-
 6	your	O	-	-
-7	English	B-OTH	-	stephen
+7	English	O	-	-
 
 # newdoc id = reviews-266676
 # sent_id = reviews-266676-0001
@@ -25834,7 +25834,7 @@
 2	is	O	-	-
 3	the	O	-	-
 4	best	O	-	-
-5	Mediterranean	B-OTH	-	stephen
+5	Mediterranean	O	-	-
 6	Restaurant	O	-	-
 7	in	O	-	-
 8	the	O	-	-
@@ -25942,7 +25942,7 @@
 10	die	O	-	-
 11	because	O	-	-
 12	a	O	-	-
-13	Swedish	B-OTH	-	stephen
+13	Swedish	O	-	-
 14	newspaper	O	-	-
 15	printed	O	-	-
 16	those	O	-	-
@@ -25973,7 +25973,7 @@
 16	by	O	-	-
 17	depicting	O	-	-
 18	the	O	-	-
-19	Holocaust	B-OTH	-	stephen
+19	Holocaust	O	-	-
 20	.	O	-	-
 
 # sent_id = weblog-blogspot.com_aggressivevoicedaily_20060814163400_ENG_20060814_163400-0003
@@ -26018,7 +26018,7 @@
 5	cartoons	O	-	-
 6	on	O	-	-
 7	the	O	-	-
-8	Holocaust	B-OTH	-	stephen
+8	Holocaust	O	-	-
 9	opened	O	-	-
 10	in	O	-	-
 11	Tehran	B-LOC	-	stephen
@@ -26100,7 +26100,7 @@
 17	doubts	O	-	-
 18	about	O	-	-
 19	the	O	-	-
-20	Holocaust	B-OTH	-	stephen
+20	Holocaust	O	-	-
 21	he	O	-	-
 22	is	O	-	-
 23	either	O	-	-
@@ -26140,7 +26140,7 @@
 21	why	O	-	-
 22	should	O	-	-
 23	the	O	-	-
-24	Palestinians	B-OTH	-	stephen
+24	Palestinians	O	-	-
 25	pay	O	-	-
 26	for	O	-	-
 27	it	O	-	-
@@ -26683,7 +26683,7 @@
 2	We	O	-	-
 3	were	O	-	-
 4	all	O	-	-
-5	American	B-OTH	-	stephen
+5	American	O	-	-
 6	citizens	O	-	-
 7	and	O	-	-
 8	there	O	-	-
@@ -26834,7 +26834,7 @@
 6	ago	O	-	-
 7	and	O	-	-
 8	the	O	-	-
-9	israelians	B-OTH	-	stephen
+9	israelians	O	-	-
 10	have	O	-	-
 11	all	O	-	-
 12	the	O	-	-
@@ -28826,7 +28826,7 @@
 5	wide	O	-	-
 6	range	O	-	-
 7	of	O	-	-
-8	Iraqi	B-OTH	-	stephen
+8	Iraqi	O	-	-
 9	political	O	-	-
 10	forces	O	-	-
 11	on	O	-	-
@@ -28918,7 +28918,7 @@
 10	that	O	-	-
 11	left	O	-	-
 12	one	O	-	-
-13	Iraqi	B-OTH	-	stephen
+13	Iraqi	O	-	-
 14	dead	O	-	-
 15	.	O	-	-
 
@@ -28937,7 +28937,7 @@
 # sent_id = weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0006
 # text = Radical Shiite cleric Muqtada al-Sadr said the attack was "criminal" and that "the Zionists have left only one choice for the Arabs, that of fighting and jihad".
 1	Radical	O	-	-
-2	Shiite	B-OTH	-	stephen
+2	Shiite	O	-	-
 3	cleric	O	-	-
 4	Muqtada	B-PER	-	stephen
 5	al	I-PER	-	stephen
@@ -28962,7 +28962,7 @@
 24	choice	O	-	-
 25	for	O	-	-
 26	the	O	-	-
-27	Arabs	B-OTH	-	stephen
+27	Arabs	O	-	-
 28	,	O	-	-
 29	that	O	-	-
 30	of	O	-	-
@@ -28993,7 +28993,7 @@
 17	emptiness	O	-	-
 18	of	O	-	-
 19	the	O	-	-
-20	Israeli	B-OTH	-	stephen
+20	Israeli	O	-	-
 21	authority	O	-	-
 22	and	O	-	-
 23	a	O	-	-
@@ -29051,7 +29051,7 @@
 10	who	O	-	-
 11	suffer	O	-	-
 12	the	O	-	-
-13	American	B-OTH	-	stephen
+13	American	O	-	-
 14	occupation	O	-	-
 15	of	O	-	-
 16	Iraq	B-LOC	-	stephen
@@ -29063,12 +29063,12 @@
 22	that	O	-	-
 23	of	O	-	-
 24	the	O	-	-
-25	Palestinian	B-OTH	-	stephen
+25	Palestinian	O	-	-
 26	people	O	-	-
 27	,	O	-	-
 28	under	O	-	-
 29	the	O	-	-
-30	Israeli	B-OTH	-	stephen
+30	Israeli	O	-	-
 31	occupation	O	-	-
 32	.	O	-	-
 33	"	O	-	-
@@ -29168,7 +29168,7 @@
 12	turned	O	-	-
 13	even	O	-	-
 14	Iraqi	O	-	-
-15	Shiites	B-OTH	-	stephen
+15	Shiites	O	-	-
 16	,	O	-	-
 17	who	O	-	-
 18	were	O	-	-
@@ -29195,9 +29195,9 @@
 4	fighting	O	-	-
 5	dual	O	-	-
 6	Sunni	O	-	-
-7	Arab	B-OTH	-	stephen
+7	Arab	O	-	-
 8	and	O	-	-
-9	Shiite	B-OTH	-	stephen
+9	Shiite	O	-	-
 10	insurgencies	O	-	-
 11	simultaneously	O	-	-
 12	,	O	-	-
@@ -29230,9 +29230,9 @@
 3	time	O	-	-
 4	when	O	-	-
 5	the	O	-	-
-6	Spanish	B-OTH	-	stephen
+6	Spanish	O	-	-
 7	,	O	-	-
-8	Thai	B-OTH	-	stephen
+8	Thai	O	-	-
 9	and	O	-	-
 10	other	O	-	-
 11	contingents	O	-	-
@@ -29331,7 +29331,7 @@
 24	no	O	-	-
 25	respect	O	-	-
 26	for	O	-	-
-27	Muslim	B-OTH	-	stephen
+27	Muslim	O	-	-
 28	culture	O	-	-
 29	(	O	-	-
 30	or	O	-	-
@@ -29403,11 +29403,11 @@
 18	impose	O	-	-
 19	on	O	-	-
 20	the	O	-	-
-21	Iraqi	B-OTH	-	stephen
+21	Iraqi	O	-	-
 22	people	O	-	-
 23	,	O	-	-
 24	including	O	-	-
-25	Polish	B-OTH	-	stephen
+25	Polish	O	-	-
 26	-	O	-	-
 27	style	O	-	-
 28	economic	O	-	-
@@ -29722,7 +29722,7 @@
 2	A	O	-	-
 3	radical	O	-	-
 4	Shiite	O	-	-
-5	Muslim	B-OTH	-	stephen
+5	Muslim	O	-	-
 6	cleric	O	-	-
 7	has	O	-	-
 8	expressed	O	-	-
@@ -29730,7 +29730,7 @@
 10	with	O	-	-
 11	the	O	-	-
 12	militant	O	-	-
-13	Palestinian	B-OTH	-	stephen
+13	Palestinian	O	-	-
 14	group	O	-	-
 15	Hamas	B-ORG	-	stephen
 16	and	O	-	-
@@ -29775,7 +29775,7 @@
 20	Hamas	B-ORG	-	stephen
 21	,	O	-	-
 22	"	O	-	-
-23	Shiite	B-OTH	-	stephen
+23	Shiite	O	-	-
 24	cleric	O	-	-
 25	Muqtada	B-PER	-	stephen
 26	al	I-PER	-	stephen
@@ -29795,7 +29795,7 @@
 40	the	O	-	-
 41	militant	O	-	-
 42	Lebanese	O	-	-
-43	Shiite	B-OTH	-	stephen
+43	Shiite	O	-	-
 44	group	O	-	-
 45	Hezbollah	O	-	-
 46	.	O	-	-
@@ -30035,7 +30035,7 @@
 6	fair	O	-	-
 7	numbers	O	-	-
 8	of	O	-	-
-9	Iraqi	B-OTH	-	stephen
+9	Iraqi	O	-	-
 10	noncombatants	O	-	-
 11	,	O	-	-
 12	including	O	-	-
@@ -30063,7 +30063,7 @@
 5	in	O	-	-
 6	several	O	-	-
 7	northern	O	-	-
-8	Iraqi	B-OTH	-	stephen
+8	Iraqi	O	-	-
 9	cities	O	-	-
 10	on	O	-	-
 11	Wednesday	O	-	-
@@ -30184,7 +30184,7 @@
 # sent_id = weblog-juancole.com_juancole_20041111060900_ENG_20041111_060900-0008
 # text = In Iraqi society, PM Allawi is responsible for protecting his clan, including especially his first cousins, so this kidnapping makes him look weak and brings substantial shame on him.
 1	In	O	-	-
-2	Iraqi	B-OTH	-	stephen
+2	Iraqi	O	-	-
 3	society	O	-	-
 4	,	O	-	-
 5	PM	O	-	-
@@ -30277,7 +30277,7 @@
 9	more	O	-	-
 10	on	O	-	-
 11	the	O	-	-
-12	Sunni	B-OTH	-	stephen
+12	Sunni	O	-	-
 13	boycott	O	-	-
 14	of	O	-	-
 15	the	O	-	-
@@ -30304,7 +30304,7 @@
 16	getting	O	-	-
 17	out	O	-	-
 18	the	O	-	-
-19	Sunni	B-OTH	-	stephen
+19	Sunni	O	-	-
 20	vote	O	-	-
 21	,	O	-	-
 22	is	O	-	-
@@ -30331,7 +30331,7 @@
 6	violence	O	-	-
 7	throughout	O	-	-
 8	the	O	-	-
-9	Sunni	B-OTH	-	stephen
+9	Sunni	O	-	-
 10	Arab	O	-	-
 11	regions	O	-	-
 12	on	O	-	-
@@ -30341,7 +30341,7 @@
 16	bode	O	-	-
 17	well	O	-	-
 18	for	O	-	-
-19	Sunni	B-OTH	-	stephen
+19	Sunni	O	-	-
 20	participation	O	-	-
 21	in	O	-	-
 22	the	O	-	-
@@ -30491,7 +30491,7 @@
 5	of	O	-	-
 6	the	O	-	-
 7	occupied	O	-	-
-8	Palestinian	B-OTH	-	stephen
+8	Palestinian	O	-	-
 9	territories	O	-	-
 10	during	O	-	-
 11	the	O	-	-
@@ -30531,7 +30531,7 @@
 5	a	O	-	-
 6	vacuum	O	-	-
 7	in	O	-	-
-8	Palestinian	B-OTH	-	stephen
+8	Palestinian	O	-	-
 9	leadership	O	-	-
 10	that	O	-	-
 11	will	O	-	-
@@ -30567,7 +30567,7 @@
 3	Israelis	O	-	-
 4	and	O	-	-
 5	the	O	-	-
-6	Palestinian	B-OTH	-	stephen
+6	Palestinian	O	-	-
 7	leadership	O	-	-
 8	can	O	-	-
 9	not	O	-	-
@@ -30584,7 +30584,7 @@
 20	of	O	-	-
 21	radical	O	-	-
 22	young	O	-	-
-23	Palestinians	B-OTH	-	stephen
+23	Palestinians	O	-	-
 24	may	O	-	-
 25	grow	O	-	-
 26	up	O	-	-
@@ -30603,7 +30603,7 @@
 1	Even	O	-	-
 2	if	O	-	-
 3	local	O	-	-
-4	Palestinian	B-OTH	-	stephen
+4	Palestinian	O	-	-
 5	leaders	O	-	-
 6	remain	O	-	-
 7	strong	O	-	-
@@ -30619,7 +30619,7 @@
 17	festering	O	-	-
 18	Israeli	O	-	-
 19	-	O	-	-
-20	Palestinian	B-OTH	-	stephen
+20	Palestinian	O	-	-
 21	struggle	O	-	-
 22	remains	O	-	-
 23	among	O	-	-
@@ -31190,7 +31190,7 @@
 5	and	O	-	-
 6	Amazon	B-ORG	-	stephen
 7	(	O	-	-
-8	GOOGLEZON	B-OTH	-	stephen
+8	GOOGLEZON	O	-	-
 9	)	O	-	-
 10	create	O	-	-
 11	a	O	-	-
