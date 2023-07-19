@@ -2,17 +2,18 @@
   "dataset_id": "en_ewt-ud-dev",
   "num_documents": 318,
   "num_annotated_documents": 318,
-  "num_annotations": 1432,
-  "num_annotators": 2,
+  "num_annotations": 1735,
+  "num_annotators": 3,
   "annotator_ids": [
-    "stephen",
-    "a"
+    "blvns",
+    "shacharmirkin",
+    "stephen"
   ],
-  "num_docs_with_multiple_annotators": 4,
+  "num_docs_with_multiple_annotators": 65,
   "num_sentences": 2001,
   "num_tokens": 25149,
   "label_distribution": {
-    "LOC": 397,
+    "LOC": 398,
     "ORG": 223,
     "PER": 343
   }

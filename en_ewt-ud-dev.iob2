@@ -271,7 +271,7 @@
 3	you	O	-	-
 4	eat	O	-	-
 5	in	O	-	-
-6	Miramar	O	-	-
+6	Miramar	B-LOC	-	stephen
 7	?	O	-	-
 
 # sent_id = answers-20080426141111AAgPUwU_ans-0002
