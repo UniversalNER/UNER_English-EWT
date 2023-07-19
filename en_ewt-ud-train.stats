@@ -1,19 +1,20 @@
 {
   "dataset_id": "en_ewt-ud-train",
   "num_documents": 540,
-  "num_annotated_documents": 39,
-  "num_annotations": 843,
-  "num_annotators": 2,
+  "num_annotated_documents": 540,
+  "num_annotations": 10855,
+  "num_annotators": 3,
   "annotator_ids": [
-    "stephen",
-    "a"
+    "blvns",
+    "dan",
+    "stephen"
   ],
-  "num_docs_with_multiple_annotators": 3,
+  "num_docs_with_multiple_annotators": 113,
   "num_sentences": 12543,
   "num_tokens": 204579,
   "label_distribution": {
-    "LOC": 312,
-    "PER": 210,
-    "ORG": 98
+    "LOC": 2712,
+    "PER": 2874,
+    "ORG": 1436
   }
 }
