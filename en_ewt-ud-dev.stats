@@ -2,19 +2,55 @@
   "dataset_id": "en_ewt-ud-dev",
   "num_documents": 318,
   "num_annotated_documents": 318,
-  "num_annotations": 1735,
-  "num_annotators": 3,
+  "num_annotations": 1733,
+  "num_annotators": 2,
   "annotator_ids": [
     "blvns",
-    "shacharmirkin",
     "stephen"
   ],
-  "num_docs_with_multiple_annotators": 65,
+  "num_docs_with_multiple_annotators": 64,
   "num_sentences": 2001,
   "num_tokens": 25149,
   "label_distribution": {
     "LOC": 398,
     "ORG": 223,
     "PER": 343
+  },
+  "pairwise_f1": {
+    "ref:blvns, pred:stephen": {
+      "num_common_annotated_docs": 64,
+      "LOC": {
+        "precision": 0.5652173913043478,
+        "recall": 0.7222222222222222,
+        "f1": 0.6341463414634146
+      },
+      "ORG": {
+        "precision": 1.0,
+        "recall": 0.2857142857142857,
+        "f1": 0.4444444444444445
+      },
+      "PER": {
+        "precision": 0.8571428571428571,
+        "recall": 1.0,
+        "f1": 0.923076923076923
+      }
+    },
+    "average": {
+      "LOC": {
+        "precision": 0.5652173913043478,
+        "recall": 0.7222222222222222,
+        "f1": 0.6341463414634146
+      },
+      "ORG": {
+        "precision": 1.0,
+        "recall": 0.2857142857142857,
+        "f1": 0.4444444444444445
+      },
+      "PER": {
+        "precision": 0.8571428571428571,
+        "recall": 1.0,
+        "f1": 0.923076923076923
+      }
+    }
   }
 }
