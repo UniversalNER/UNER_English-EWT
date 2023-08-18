@@ -862,7 +862,7 @@
 6	food	O	-	-
 7	in	O	-	-
 8	phila	B-LOC	-	stephen
-9	pa	B-LOC	-	stephen
+9	pa	O	-	-
 10	?	O	-	-
 
 # sent_id = answers-20111024202518AA18Sg7_ans-0002
@@ -872,12 +872,12 @@
 3	's	I-LOC	-	stephen
 4	deli	I-LOC	-	stephen
 5	at	O	-	-
-6	3901	O	-	-
-7	conshocken	O	-	-
-8	ave	O	-	-
-9	in	O	-	-
-10	phila	B-LOC	-	stephen
-11	pa	B-LOC	-	stephen
+6	3901	B-LOC	-	stephen
+7	conshocken	I-LOC	-	stephen
+8	ave	I-LOC	-	stephen
+9	in	I-LOC	-	stephen
+10	phila	I-LOC	-	stephen
+11	pa	I-LOC	-	stephen
 12	really	O	-	-
 13	the	O	-	-
 14	best	O	-	-
@@ -4255,7 +4255,7 @@
 # newdoc id = answers-20111108074455AAiMwmn_ans
 # sent_id = answers-20111108074455AAiMwmn_ans-0001
 # text = canon t2i stops working?
-1	canon	B-ORG	-	stephen
+1	canon	O	-	-
 2	t2i	O	-	-
 3	stops	O	-	-
 4	working	O	-	-
@@ -4264,7 +4264,7 @@
 # sent_id = answers-20111108074455AAiMwmn_ans-0002
 # text = My canon t2i stops working at times as in the power bottom is switched to "on" but the camera does not respond to any function.
 1	My	O	-	-
-2	canon	B-ORG	-	stephen
+2	canon	O	-	-
 3	t2i	O	-	-
 4	stops	O	-	-
 5	working	O	-	-
@@ -4813,14 +4813,14 @@
 1	I	O	-	-
 2	have	O	-	-
 3	a	O	-	-
-4	Kodak	B-ORG	-	stephen
+4	Kodak	O	-	-
 5	Camera	O	-	-
 6	(	O	-	-
 7	10.2	O	-	-
 8	Megapixels	O	-	-
 9	)	O	-	-
 10	...	O	-	-
-11	Kodak	B-ORG	-	stephen
+11	Kodak	O	-	-
 12	AF	O	-	-
 13	5x	O	-	-
 14	OPTICAL	O	-	-
@@ -4840,14 +4840,14 @@
 1	I	O	-	-
 2	have	O	-	-
 3	a	O	-	-
-4	Kodak	B-ORG	-	stephen
+4	Kodak	O	-	-
 5	Camera	O	-	-
 6	(	O	-	-
 7	10.2	O	-	-
 8	Megapixels	O	-	-
 9	)	O	-	-
 10	...	O	-	-
-11	Kodak	B-ORG	-	stephen
+11	Kodak	O	-	-
 12	AF	O	-	-
 13	5x	O	-	-
 14	OPTICAL	O	-	-
@@ -9613,8 +9613,8 @@
 
 # sent_id = email-enronsent21_01-0017
 # text = Kinder Morgan $ 3,500,000 $ 1,250,000
-1	Kinder	O	-	-
-2	Morgan	O	-	-
+1	Kinder	B-ORG	-	stephen
+2	Morgan	I-ORG	-	stephen
 3	$	O	-	-
 4	3,500,000	O	-	-
 5	$	O	-	-
@@ -9622,7 +9622,7 @@
 
 # sent_id = email-enronsent21_01-0018
 # text = AEP $19,250,000 $38,750,000
-1	AEP	O	-	-
+1	AEP	B-ORG	-	stephen
 2	$	O	-	-
 3	19,250,000	O	-	-
 4	$	O	-	-
@@ -10998,7 +10998,7 @@
 17	learned	O	-	-
 18	following	O	-	-
 19	the	O	-	-
-20	Ark	O	-	-
+20	Ark	B-ORG	-	stephen
 21	game	O	-	-
 22	last	O	-	-
 23	season	O	-	-
@@ -15513,7 +15513,7 @@
 
 # sent_id = newsgroup-groups.google.com_JokeEruption_df151b356f94881c_ENG_20050819_155700-0006
 # text = Amy:-)
-1	Amy	O	-	-
+1	Amy	B-PER	-	stephen
 2	:-)	O	-	-
 
 # sent_id = newsgroup-groups.google.com_JokeEruption_df151b356f94881c_ENG_20050819_155700-0007

@@ -2,7 +2,7 @@
   "dataset_id": "en_ewt-ud-test",
   "num_documents": 316,
   "num_annotated_documents": 316,
-  "num_annotations": 1759,
+  "num_annotations": 1762,
   "num_annotators": 2,
   "annotator_ids": [
     "blvns",
@@ -12,9 +12,9 @@
   "num_sentences": 2077,
   "num_tokens": 25097,
   "label_distribution": {
-    "LOC": 319,
-    "PER": 448,
-    "ORG": 325
+    "LOC": 317,
+    "PER": 449,
+    "ORG": 322
   },
   "pairwise_f1": {
     "ref:blvns, pred:stephen": {
