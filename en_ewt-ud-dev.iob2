@@ -4310,9 +4310,9 @@
 3	you	O	-	-
 4	mean	O	-	-
 5	the	O	-	-
-6	crazy	O	-	-
-7	horse	O	-	-
-8	memorial	O	-	-
+6	crazy	B-LOC	-	stephen
+7	horse	I-LOC	-	stephen
+8	memorial	I-LOC	-	stephen
 9	.	O	-	-
 
 # sent_id = answers-20111108082040AAmrGJ5_ans-0004
@@ -28854,10 +28854,10 @@
 # sent_id = weblog-juancole.com_juancole_20040324065800_ENG_20040324_065800-0002
 # text = The Board of Muslim clerics in Fallujah, 50 km west of Baghdad, "condemned the assassination and promised immediate revenge against the coalition soldiers in Iraq."
 1	The	O	-	-
-2	Board	O	-	-
-3	of	O	-	-
-4	Muslim	O	-	-
-5	clerics	O	-	-
+2	Board	B-ORG	-	stephen
+3	of	I-ORG	-	stephen
+4	Muslim	I-ORG	-	stephen
+5	clerics	I-ORG	-	stephen
 6	in	O	-	-
 7	Fallujah	B-LOC	-	stephen
 8	,	O	-	-
