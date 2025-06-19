@@ -1657,10 +1657,9 @@
 10	.	O	-	-
 
 # sent_id = answers-20111106103415AAqdokn_ans-0005
-# text = Fudrucker s .
-1	Fudrucker	B-ORG	-	stephen
-2	s	I-ORG	-	stephen
-3	.	O	-	-
+# text = Fudruckers .
+1	Fudruckers	B-ORG	-	stephen
+2	.	O	-	-
 
 # sent_id = answers-20111106103415AAqdokn_ans-0006
 # text = idk ur choice
@@ -2172,20 +2171,19 @@
 7	?	O	-	-
 
 # sent_id = answers-20111107035344AAdi9dS_ans-0002
-# text = Well there s Mc. Donald s ,Taco Bell,Burger King.....
+# text = Well theres Mc. Donald s ,Taco Bell,Burger King.....
 1	Well	O	-	-
 2	there	O	-	-
 3	s	O	-	-
-4	Mc.	B-ORG	-	stephen
-5	Donald	I-ORG	-	stephen
-6	s	I-ORG	-	stephen
-7	,	O	-	-
-8	Taco	B-ORG	-	stephen
-9	Bell	I-ORG	-	stephen
-10	,	O	-	-
-11	Burger	B-ORG	-	stephen
-12	King	I-ORG	-	stephen
-13	.....	O	-	-
+4	Mc.Donald	B-ORG	-	stephen
+5	s	I-ORG	-	stephen
+6	,	O	-	-
+7	Taco	B-ORG	-	stephen
+8	Bell	I-ORG	-	stephen
+9	,	O	-	-
+10	Burger	B-ORG	-	stephen
+11	King	I-ORG	-	stephen
+12	.....	O	-	-
 
 # sent_id = answers-20111107035344AAdi9dS_ans-0003
 # text = But my resturant is way better than all of them...and it 's quite close.
@@ -16443,20 +16441,19 @@
 7	,	O	-	-
 8	Amex	O	-	-
 9	,	O	-	-
-10	Dinner	O	-	-
-11	s	O	-	-
-12	Club	O	-	-
-13	/	O	-	-
-14	Carte	O	-	-
-15	Blanche	O	-	-
-16	,	O	-	-
-17	&	O	-	-
-18	Personal	O	-	-
-19	Checks	O	-	-
-20	/	O	-	-
-21	Money	O	-	-
-22	Orders	O	-	-
-23	.	O	-	-
+10	Dinners	O	-	-
+11	Club	O	-	-
+12	/	O	-	-
+13	Carte	O	-	-
+14	Blanche	O	-	-
+15	,	O	-	-
+16	&	O	-	-
+17	Personal	O	-	-
+18	Checks	O	-	-
+19	/	O	-	-
+20	Money	O	-	-
+21	Orders	O	-	-
+22	.	O	-	-
 
 # sent_id = newsgroup-groups.google.com_alt.animals.bears_07e0e03c803ffdbd_ENG_20040217_113500-0015
 # text = Animals R Us.Net Bill Schmidt animalsr...@aol.com 732-657-3416 1027 Jolson Court Manchester, N.J. 08759
