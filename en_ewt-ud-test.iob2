@@ -27,7 +27,7 @@
 5	slogan	O	-	-
 6	for	O	-	-
 7	an	O	-	-
-8	Argentinian	O	-	-
+8	Argentinian	B-OTH	-	-
 9	restaurant	O	-	-
 10	?	O	-	-
 
@@ -560,8 +560,8 @@
 1	I	O	-	-
 2	have	O	-	-
 3	a	O	-	-
-4	Nacho	B-PER	-	stephen
-5	Libre	I-PER	-	stephen
+4	Nacho	B-OTH	-	stephen
+5	Libre	I-OTH	-	stephen
 6	question	O	-	-
 7	.?	O	-	-
 
@@ -702,19 +702,19 @@
 
 # sent_id = answers-20110320195750AAkPbFG_ans-0008
 # text = Nacho Libre is suppose to be inspired in Mexicans, not in Argentineans.
-1	Nacho	B-PER	-	stephen
-2	Libre	I-PER	-	stephen
+1	Nacho	B-OTH	-	stephen
+2	Libre	I-OTH	-	stephen
 3	is	O	-	-
 4	suppose	O	-	-
 5	to	O	-	-
 6	be	O	-	-
 7	inspired	O	-	-
 8	in	O	-	-
-9	Mexicans	O	-	-
+9	Mexicans	B-OTH	-	-
 10	,	O	-	-
 11	not	O	-	-
 12	in	O	-	-
-13	Argentineans	O	-	-
+13	Argentineans	B-OTH	-	-
 14	.	O	-	-
 
 # newdoc id = answers-20110828235728AAvFDPs_ans
@@ -779,7 +779,7 @@
 9	buy	O	-	-
 10	in	O	-	-
 11	philadelphia	B-LOC	-	stephen
-12	pa	B-LOC	-	stephen
+12	pa	I-LOC	-	stephen
 13	?	O	-	-
 
 # sent_id = answers-20111024111513AAAQhAO_ans-0003
@@ -795,8 +795,8 @@
 
 # sent_id = answers-20111024111513AAAQhAO_ans-0004
 # text = Prosperity POS makes the best pos systems.
-1	Prosperity	O	-	-
-2	POS	O	-	-
+1	Prosperity	B-ORG	-	-
+2	POS	I-ORG	-	-
 3	makes	O	-	-
 4	the	O	-	-
 5	best	O	-	-
@@ -980,7 +980,7 @@
 15	day	O	-	-
 16	websites	O	-	-
 17	like	O	-	-
-18	Groupon	O	-	-
+18	Groupon	B-ORG	-	-
 19	.	O	-	-
 
 # sent_id = answers-20111103205154AAOod9K_ans-0004
@@ -1024,7 +1024,7 @@
 1	I	O	-	-
 2	usually	O	-	-
 3	use	O	-	-
-4	ZebraKlub	O	-	-
+4	ZebraKlub	B-ORG	-	-
 5	.	O	-	-
 
 # sent_id = answers-20111103205154AAOod9K_ans-0007
@@ -1035,10 +1035,10 @@
 4	daily	O	-	-
 5	deals	O	-	-
 6	from	O	-	-
-7	Groupon	O	-	-
+7	Groupon	B-ORG	-	-
 8	,	O	-	-
-9	Living	O	-	-
-10	Social	O	-	-
+9	Living	B-ORG	-	-
+10	Social	I-ORG	-	-
 11	,	O	-	-
 12	and	O	-	-
 13	all	O	-	-
@@ -1105,7 +1105,7 @@
 15	every	O	-	-
 16	day	O	-	-
 17	,	O	-	-
-18	ZebraKlub	O	-	-
+18	ZebraKlub	B-ORG	-	-
 19	should	O	-	-
 20	be	O	-	-
 21	perfect	O	-	-
@@ -1335,7 +1335,7 @@
 13	from	O	-	-
 14	in	O	-	-
 15	Invercargill	B-LOC	-	stephen
-16	New	B-LOC	-	stephen
+16	New	I-LOC	-	stephen
 17	Zealand	I-LOC	-	stephen
 18	?	O	-	-
 
@@ -1346,7 +1346,7 @@
 3	live	O	-	-
 4	in	O	-	-
 5	Invercargill	B-LOC	-	stephen
-6	New	B-LOC	-	stephen
+6	New	I-LOC	-	stephen
 7	Zealand	I-LOC	-	stephen
 8	and	O	-	-
 9	i	O	-	-
@@ -1369,9 +1369,9 @@
 26	from	O	-	-
 27	other	O	-	-
 28	than	O	-	-
-29	mc	B-LOC	-	stephen
-30	donald	I-LOC	-	stephen
-31	s	I-LOC	-	stephen
+29	mc	B-ORG	-	stephen
+30	donald	I-ORG	-	stephen
+31	s	I-ORG	-	stephen
 32	lol	O	-	-
 
 # sent_id = answers-20111106015552AAj6rCu_ans-0003
@@ -1393,8 +1393,8 @@
 5	and	O	-	-
 6	you	O	-	-
 7	eat	O	-	-
-8	McDonald	B-LOC	-	stephen
-9	s	I-LOC	-	stephen
+8	McDonald	B-ORG	-	stephen
+9	s	I-ORG	-	stephen
 10	ice	O	-	-
 11	cream	O	-	-
 12	?	O	-	-
@@ -1736,17 +1736,17 @@
 # text = See what DD&D showed at the original place on Harms Rd in Glenview:
 1	See	O	-	-
 2	what	O	-	-
-3	DD	O	-	-
-4	&	O	-	-
-5	D	O	-	-
+3	DD	B-ORG	-	-
+4	&	I-ORG	-	-
+5	D	I-ORG	-	-
 6	showed	O	-	-
 7	at	O	-	-
 8	the	O	-	-
 9	original	O	-	-
 10	place	O	-	-
 11	on	O	-	-
-12	Harms	O	-	-
-13	Rd	O	-	-
+12	Harms	B-LOC	-	-
+13	Rd	I-LOC	-	-
 14	in	O	-	-
 15	Glenview	B-LOC	-	stephen
 16	:	O	-	-
@@ -1847,8 +1847,8 @@
 12	three	O	-	-
 13	friends	O	-	-
 14	to	O	-	-
-15	Andiamo	B-ORG	-	stephen
-16	s	I-ORG	-	stephen
+15	Andiamo	B-LOC	-	stephen
+16	s	I-LOC	-	stephen
 17	restaurant	O	-	-
 18	for	O	-	-
 19	dinner	O	-	-
@@ -2258,8 +2258,8 @@
 # text = PORTILLO 'S OR WHITE CASTLE! :D
 1	PORTILLO	B-ORG	-	stephen
 2	'S	I-ORG	-	stephen
-3	OR	O	-	-
-4	WHITE	B-ORG	-	stephen
+3	OR	I-ORG	-	-
+4	WHITE	I-ORG	-	stephen
 5	CASTLE	I-ORG	-	stephen
 6	!	O	-	-
 7	:D	O	-	-
@@ -2580,7 +2580,7 @@
 7	,	O	-	-
 8	and	O	-	-
 9	norweigan	B-ORG	-	stephen
-10	(	O	-	-
+10	(	I-ORG	-	-
 11	cruises	O	-	-
 12	)	O	-	-
 13	which	O	-	-
@@ -2618,8 +2618,8 @@
 # text = The new NCL Epic does sound amazing, although I have n't sailed on her yet.
 1	The	O	-	-
 2	new	O	-	-
-3	NCL	O	-	-
-4	Epic	O	-	-
+3	NCL	B-ORG	-	-
+4	Epic	I-ORG	-	-
 5	does	O	-	-
 6	sound	O	-	-
 7	amazing	O	-	-
@@ -3741,7 +3741,7 @@
 # text = E-mail: memberservices@worldresortsinternational.com
 1	E-mail	O	-	-
 2	:	O	-	-
-3	memberservices@worldresortsinternational.com	O	-	-
+3	memberservices@worldresortsinternational.com	B-ORG	-	-
 
 # sent_id = answers-20111108044917AALAHtc_ans-0005
 # text = m
@@ -4039,7 +4039,7 @@
 10	love	O	-	-
 11	the	O	-	-
 12	free	O	-	-
-13	French	O	-	-
+13	French	B-OTH	-	-
 14	champagne	O	-	-
 15	served	O	-	-
 16	even	O	-	-
@@ -5121,8 +5121,8 @@
 8	system	O	-	-
 9	camera	O	-	-
 10	at	O	-	-
-11	best	O	-	-
-12	buy	O	-	-
+11	best	B-ORG	-	-
+12	buy	I-ORG	-	-
 13	;	O	-	-
 14	so	O	-	-
 15	please	O	-	-
@@ -5176,8 +5176,8 @@
 2	a	O	-	-
 3	look	O	-	-
 4	at	O	-	-
-5	sony	O	-	-
-6	wx10	O	-	-
+5	sony	B-OTH	-	-
+6	wx10	I-OTH	-	-
 
 # newdoc id = answers-20111108084036AAh8Ws9_ans
 # sent_id = answers-20111108084036AAh8Ws9_ans-0001
@@ -5863,9 +5863,9 @@
 3	the	O	-	-
 4	difference	O	-	-
 5	between	O	-	-
-6	Indian	O	-	-
+6	Indian	B-OTH	-	-
 7	and	O	-	-
-8	African	O	-	-
+8	African	B-OTH	-	-
 9	ringnecks	O	-	-
 10	and	O	-	-
 11	alexandrine	O	-	-
@@ -7808,7 +7808,7 @@
 
 # sent_id = email-enronsent09_02-0012
 # text = D
-1	D	B-PER	-	stephen
+1	D	O	-	stephen
 
 # sent_id = email-enronsent09_02-0013
 # text = Daren
@@ -8016,7 +8016,7 @@
 
 # sent_id = email-enronsent09_02-0031
 # text = D
-1	D	B-PER	-	stephen
+1	D	O	-	stephen
 
 # sent_id = email-enronsent09_02-0032
 # text = ???
@@ -8170,15 +8170,15 @@
 8	,	O	-	-
 9	Abacus	B-ORG	-	stephen
 10	Technologies	I-ORG	-	stephen
-11	17611	O	-	-
-12	Loring	O	-	-
-13	Lane	O	-	-
-14	,	O	-	-
-15	Spring	B-LOC	-	stephen
-16	,	O	-	-
-17	TX	B-LOC	-	stephen
-18	77388-5746	O	-	-
-19	(	O	-	-
+11	17611	B-LOC	-	-
+12	Loring	I-LOC	-	-
+13	Lane	I-LOC	-	-
+14	,	I-LOC	-	-
+15	Spring	I-LOC	-	stephen
+16	,	I-LOC	-	-
+17	TX	I-LOC	-	stephen
+18	77388-5746	I-LOC	-	-
+19	(	I-LOC	-	-
 20	281	O	-	-
 21	)	O	-	-
 22	651-7106	O	-	-
@@ -9826,7 +9826,7 @@
 4	on	O	-	-
 5	with	O	-	-
 6	the	O	-	-
-7	UBS	O	-	-
+7	UBS	B-ORG	-	-
 8	weather	O	-	-
 9	position	O	-	-
 10	?	O	-	-
@@ -9978,7 +9978,7 @@
 3	deals	O	-	-
 4	in	O	-	-
 5	the	O	-	-
-6	Aruba	O	-	-
+6	Aruba	B-LOC	-	-
 7	book	O	-	-
 8	so	O	-	-
 9	I	O	-	-
@@ -10649,8 +10649,8 @@
 8	jacket	O	-	-
 9	,	O	-	-
 10	like	O	-	-
-11	tony	B-ORG	-	stephen
-12	's	I-ORG	-	stephen
+11	tony	B-LOC	-	stephen
+12	's	I-LOC	-	stephen
 13	.	O	-	-
 
 # sent_id = email-enronsent23_02-0002
@@ -12466,7 +12466,7 @@
 
 # sent_id = email-enronsent29_02-0012
 # text = dp
-1	dp	B-PER	-	stephen
+1	dp	O	-	stephen
 
 # sent_id = email-enronsent29_02-0013
 # text = Could one of you please email me a copy of the standard template you use for Enfolio gas purchase agreements?
@@ -13601,7 +13601,7 @@
 5	draft	O	-	-
 6	of	O	-	-
 7	the	O	-	-
-8	CDWR	O	-	-
+8	CDWR	B-ORG	-	-
 9	risk	O	-	-
 10	memo	O	-	-
 11	.	O	-	-
@@ -13632,7 +13632,7 @@
 15	imposed	O	-	-
 16	by	O	-	-
 17	the	O	-	-
-18	CDWR	O	-	-
+18	CDWR	B-ORG	-	-
 19	as	O	-	-
 20	early	O	-	-
 21	as	O	-	-
@@ -14143,7 +14143,7 @@
 # sent_id = email-enronsent32_02-0028
 # text = ----cgy
 1	----	O	-	-
-2	cgy	B-PER	-	stephen
+2	cgy	O	-	stephen
 
 # sent_id = email-enronsent32_02-0029
 # text = Tracy, Do we have concerns here.
@@ -14839,7 +14839,7 @@
 # sent_id = newsgroup-groups.google.com_APassionforRats_207517af35c166ef_ENG_20050526_150700-0007
 # text = ~CGoehring
 1	~	O	-	-
-2	CGoehring	O	-	-
+2	CGoehring	B-PER	-	-
 
 # newdoc id = newsgroup-groups.google.com_CognitiveScienceNews_05a0175fc6ece48b_ENG_20050828_091900
 # sent_id = newsgroup-groups.google.com_CognitiveScienceNews_05a0175fc6ece48b_ENG_20050828_091900-0001
@@ -14902,7 +14902,7 @@
 33	Medicine	I-ORG	-	stephen
 34	study	O	-	-
 35	in	O	-	-
-36	Neuron	O	-	-
+36	Neuron	B-ORG	-	-
 37	....	O	-	-
 
 # sent_id = newsgroup-groups.google.com_CognitiveScienceNews_05a0175fc6ece48b_ENG_20050828_091900-0004
@@ -15197,7 +15197,7 @@
 4	way	O	-	-
 5	Otto	B-PER	-	stephen
 6	Jespersen	I-PER	-	stephen
-7	(	O	-	-
+7	(	I-PER	-	-
 8	in	O	-	-
 9	'	O	-	-
 10	Language	O	-	-
@@ -15396,7 +15396,7 @@
 1	Police	O	-	-
 2	in	O	-	-
 3	the	O	-	-
-4	Indian	O	-	-
+4	Indian	B-OTH	-	-
 5	capital	O	-	-
 6	Delhi	B-LOC	-	stephen
 7	say	O	-	-
@@ -15478,9 +15478,9 @@
 
 # sent_id = newsgroup-groups.google.com_IndiaNewsWindow_8945cbef01f41435_ENG_20051113_092500-0005
 # text = The India Diaries
-1	The	B-ORG	-	stephen
-2	India	I-ORG	-	stephen
-3	Diaries	I-ORG	-	stephen
+1	The	O	-	stephen
+2	India	B-LOC	-	stephen
+3	Diaries	O	-	stephen
 
 # newdoc id = newsgroup-groups.google.com_JokeEruption_df151b356f94881c_ENG_20050819_155700
 # sent_id = newsgroup-groups.google.com_JokeEruption_df151b356f94881c_ENG_20050819_155700-0001
@@ -16782,7 +16782,7 @@
 1	Email	O	-	-
 2	:	O	-	-
 3	"	O	-	-
-4	Ian	B-PER	-	stephen
+4	Ian	O	-	stephen
 5	"	O	-	-
 6	<	O	-	-
 7	ian.gilb...@btinternet.com	O	-	-
@@ -16873,7 +16873,7 @@
 
 # sent_id = newsgroup-groups.google.com_alt.animals.cat_0f877e44e3521d27_ENG_20040131_084700-0007
 # text = Ian - Webmaster www.southbhamcats.org.uk
-1	Ian	B-PER	-	stephen
+1	Ian	O	-	stephen
 2	-	O	-	-
 3	Webmaster	O	-	-
 4	www.southbhamcats.org.uk	O	-	-
@@ -20862,8 +20862,8 @@
 11	our	O	-	-
 12	shop	O	-	-
 13	in	O	-	-
-14	Morningside	O	-	-
-15	Road	O	-	-
+14	Morningside	B-LOC	-	-
+15	Road	I-LOC	-	-
 16	today	O	-	-
 17	.	O	-	-
 
@@ -21606,10 +21606,10 @@
 3	I	B-ORG	-	stephen
 4	Move	I-ORG	-	stephen
 5	CA	I-ORG	-	stephen
-6	-	O	-	-
-7	Los	B-LOC	-	stephen
-8	Angeles	I-LOC	-	stephen
-9	Movers	O	-	-
+6	-	I-ORG	-	-
+7	Los	I-ORG	-	stephen
+8	Angeles	I-ORG	-	stephen
+9	Movers	I-ORG	-	-
 10	,	O	-	-
 11	they	O	-	-
 12	moved	O	-	-
@@ -21887,7 +21887,7 @@
 22	on	O	-	-
 23	my	O	-	-
 24	beloved	O	-	-
-25	Miata	O	-	-
+25	Miata	B-OTH	-	-
 26	.	O	-	-
 
 # sent_id = reviews-138249-0003
@@ -22871,9 +22871,9 @@
 # text = kudos to Allentown Post Office staff
 1	kudos	O	-	-
 2	to	O	-	-
-3	Allentown	B-LOC	-	stephen
-4	Post	I-LOC	-	stephen
-5	Office	I-LOC	-	stephen
+3	Allentown	B-ORG	-	stephen
+4	Post	I-ORG	-	stephen
+5	Office	I-ORG	-	stephen
 6	staff	O	-	-
 
 # sent_id = reviews-200668-0002
@@ -23492,8 +23492,8 @@
 # newdoc id = reviews-226715
 # sent_id = reviews-226715-0001
 # text = Inford Media
-1	Inford	O	-	-
-2	Media	O	-	-
+1	Inford	B-ORG	-	-
+2	Media	I-ORG	-	-
 
 # sent_id = reviews-226715-0002
 # text = Media, Software, Fun and Games, Website design, Web Promotion, B2B, Business Promotion, Search Engine Optimization.
@@ -24100,7 +24100,7 @@
 2	recovered	O	-	-
 3	the	O	-	-
 4	pics	O	-	-
-5	geeksquad	O	-	-
+5	geeksquad	B-ORG	-	-
 6	deleted	O	-	-
 7	.	O	-	-
 
@@ -24321,7 +24321,7 @@
 # text = The finest German bedding and linens store.
 1	The	O	-	-
 2	finest	O	-	-
-3	German	O	-	-
+3	German	B-OTH	-	-
 4	bedding	O	-	-
 5	and	O	-	-
 6	linens	O	-	-
@@ -24668,7 +24668,7 @@
 1	If	O	-	-
 2	you	O	-	-
 3	check	O	-	-
-4	RecWarehouse.com	O	-	-
+4	RecWarehouse.com	B-ORG	-	-
 5	,	O	-	-
 6	they	O	-	-
 7	do	O	-	-
@@ -24690,7 +24690,7 @@
 6	10	O	-	-
 7	miles	O	-	-
 8	down	O	-	-
-9	75	O	-	-
+9	75	B-LOC	-	-
 10	to	O	-	-
 11	Allen	B-LOC	-	stephen
 12	.	O	-	-
@@ -27178,7 +27178,7 @@
 7	born	O	-	-
 8	Brian	B-PER	-	stephen
 9	Young	I-PER	-	stephen
-10	)	O	-	-
+10	)	I-PER	-	-
 11	High	B-LOC	-	stephen
 12	Wycombe	I-LOC	-	stephen
 
@@ -27671,7 +27671,7 @@
 2	the	O	-	-
 3	same	O	-	-
 4	day	O	-	-
-5	Palestinians	O	-	-
+5	Palestinians	B-OTH	-	-
 6	protest	O	-	-
 7	in	O	-	-
 8	support	O	-	-
